@@ -25,6 +25,7 @@
 ### Starters
 
 🏁- [bulma-start](https://github.com/jgthms/bulma-start) - A tiny npm package to get started  
+🏁- [bulmapress](https://github.com/teamscops/bulmapress) - A WordPress flexbox theme  
 
 ## Contribute
 
