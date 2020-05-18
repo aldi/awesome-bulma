@@ -10,7 +10,7 @@
 
 - [Resources](#resources)
   - [Useful Links](#useful-links)
-  - [Starters](#starters-🏁)
+  - [Starters](#starters)
 
 ## Resources
 
@@ -26,6 +26,7 @@
 
 🏁- [bulma-start](https://github.com/jgthms/bulma-start) - A tiny npm package to get started  
 🏁- [bulmapress](https://github.com/teamscops/bulmapress) - A WordPress flexbox theme  
+🏁- [base-camp](https://github.com/suomato/base-camp) - Awesome WordPress starter theme with own CLI with Bulma  
 
 ## Contribute
 
