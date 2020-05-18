@@ -28,6 +28,7 @@
 🏁- [bulmapress](https://github.com/teamscops/bulmapress) - A WordPress flexbox theme  
 🏁- [base-camp](https://github.com/suomato/base-camp) - Awesome WordPress starter theme with own CLI with Bulma  
 🏁- [bulmascores](https://github.com/Nicuz/Bulmascores) - WordPress starter theme based on Underscores and Bulma  
+🏁- [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) - Gatsby + Netlify CMS Starter with Bulma  
 
 ## Contribute
 
