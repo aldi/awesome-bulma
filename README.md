@@ -31,6 +31,7 @@
 🏁- [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) - Gatsby + Netlify CMS Starter with Bulma
 🏁- [gatsby-bulma-quickstart](https://github.com/amandeepmittal/gatsby-bulma-quickstart) - A Bulma CSS + GatsbyJS Starter Kit  
 🏁- [gatsby-starter-bloomer](https://github.com/Cethy/gatsby-starter-bloomer) - A Gatsby starter based on Bulma and Bloomer  
+🏁- [gatsby-starter-bulma-storybook](https://github.com/gvaldambrini/gatsby-starter-bulma-storybook) - A minimal Gatsby starter which includes Bulma and Storybook  
 
 ## Contribute
 
