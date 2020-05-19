@@ -32,7 +32,7 @@
 🏁- [gatsby-bulma-quickstart](https://github.com/amandeepmittal/gatsby-bulma-quickstart) - A Bulma CSS + GatsbyJS Starter Kit  
 🏁- [gatsby-starter-bloomer](https://github.com/Cethy/gatsby-starter-bloomer) - A Gatsby starter based on Bulma and Bloomer  
 🏁- [gatsby-starter-bulma-storybook](https://github.com/gvaldambrini/gatsby-starter-bulma-storybook) - A minimal Gatsby starter which includes Bulma and Storybook  
-
+🏁- [gatsby-starter-i18n-bulma](https://github.com/kalwalt/gatsby-starter-i18n-bulma) - A gatsby multilanguage template with bulma and i18n  
 ## Contribute
 
 Contributions welcome!
