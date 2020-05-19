@@ -30,6 +30,7 @@
 🏁- [bulmascores](https://github.com/Nicuz/Bulmascores) - WordPress starter theme based on Underscores and Bulma  
 🏁- [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) - Gatsby + Netlify CMS Starter with Bulma
 🏁- [gatsby-bulma-quickstart](https://github.com/amandeepmittal/gatsby-bulma-quickstart) - A Bulma CSS + GatsbyJS Starter Kit  
+🏁- [gatsby-starter-bloomer](https://github.com/Cethy/gatsby-starter-bloomer) - A Gatsby starter based on Bulma and Bloomer  
 
 ## Contribute
 
