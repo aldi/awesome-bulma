@@ -36,6 +36,7 @@
 🏁- [phoenix-starter](https://github.com/awestbro/phoenix-starter) - Elixir | Phoenix | Webpack | Bulma  
 🏁- [gridsome-bulma](https://github.com/calebanthony/gridsome-bulma) - A Gridsome starter with Bulma  
 🏁- [next-starter](https://github.com/techno246/next-starter) - Next.js starter project with Bulma, SASS, ESLint  
+🏁- [starter-angular-loopback-bulma](https://github.com/angular-indonesia/starter-angular-loopback-bulma) - A Starter Template using Angular & Bulma with a Loopback Backend  
 
 ## Contribute
 
