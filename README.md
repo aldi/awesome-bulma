@@ -35,6 +35,7 @@
 🏁- [gatsby-starter-i18n-bulma](https://github.com/kalwalt/gatsby-starter-i18n-bulma) - A gatsby multilanguage template with bulma and i18n  
 🏁- [phoenix-starter](https://github.com/awestbro/phoenix-starter) - Elixir | Phoenix | Webpack | Bulma  
 🏁- [gridsome-bulma](https://github.com/calebanthony/gridsome-bulma) - A Gridsome starter with Bulma  
+🏁- [next-starter](https://github.com/techno246/next-starter) - Next.js starter project with Bulma, SASS, ESLint  
 
 ## Contribute
 
