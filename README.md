@@ -40,6 +40,7 @@
 🏁- [react-starter](https://github.com/chvid/react-starter) - A starter for React/Bulma/Webpack  
 🏁- [next-bulma](https://github.com/louiskhenghao/next-bulma) - NextJs with Bulma CSS Framework  
 🏁- [hyperbulma](https://github.com/cutemachine/hyperbulma) - A starter project for using Hyperapp with Bulma CSS  
+- [parcel-starter-kit](https://github.com/emendelski/parcel-starter-kit) - Simple boilerplate: Parcel, Bulma, Babel, Autoprefixer, Posthtml, Eslint and SCSS  
 
 ## Contribute
 
