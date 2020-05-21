@@ -39,6 +39,7 @@
 🏁- [starter-angular-loopback-bulma](https://github.com/angular-indonesia/starter-angular-loopback-bulma) - A Starter Template using Angular & Bulma with a Loopback Backend  
 🏁- [react-starter](https://github.com/chvid/react-starter) - A starter for React/Bulma/Webpack  
 🏁- [next-bulma](https://github.com/louiskhenghao/next-bulma) - NextJs with Bulma CSS Framework  
+🏁- [hyperbulma](https://github.com/cutemachine/hyperbulma) - A starter project for using Hyperapp with Bulma CSS  
 
 ## Contribute
 
