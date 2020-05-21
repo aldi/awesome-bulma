@@ -46,6 +46,7 @@
 ### Templates  
 
 🎨 - [awesome-bulma-templates](https://github.com/aldi/awesome-bulma-templates/tree/master/templates) - Free Real World Templates built with Bulma  
+🎨 - [bulma-rent-template](https://github.com/aldi/bulma-rent-template) - Free Rent Template built with Bulma  
 
 ## Contribute
 
