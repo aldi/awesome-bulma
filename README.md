@@ -50,6 +50,7 @@
 🎨 - [bulma-cv-template](https://github.com/aldi/bulma-cv-template) - Free CV Template built with Bulma  
 🎨 - [bulma-hotel-template](https://github.com/aldi/bulma-hotel-template) - Free Hotel template built with Bulma  
 🎨 - [bulma-coming-soon-template](https://github.com/aldi/bulma-coming-soon-template) - Free Coming Soon template built with Bulma  
+🎨 - [bulma-login-template](https://github.com/aldi/bulma-login-template) - Free Login Page template built with Bulma  
 
 ## Contribute
 
