@@ -51,6 +51,7 @@
 🎨 - [bulma-hotel-template](https://github.com/aldi/bulma-hotel-template) - Free Hotel template built with Bulma  
 🎨 - [bulma-coming-soon-template](https://github.com/aldi/bulma-coming-soon-template) - Free Coming Soon template built with Bulma  
 🎨 - [bulma-login-template](https://github.com/aldi/bulma-login-template) - Free Login Page template built with Bulma  
+🎨 - [bulma-event-participation-template](https://github.com/aldi//bulma-event-participation-template) - Free Event Participation template built with Bulma  
 
 ## Contribute
 
