@@ -52,6 +52,7 @@
 🎨 - [bulma-coming-soon-template](https://github.com/aldi/bulma-coming-soon-template) - Free Coming Soon template built with Bulma  
 🎨 - [bulma-login-template](https://github.com/aldi/bulma-login-template) - Free Login Page template built with Bulma  
 🎨 - [bulma-event-participation-template](https://github.com/aldi//bulma-event-participation-template) - Free Event Participation template built with Bulma  
+🎨 - [bulma-landing-page-template](https://github.com/hellobetkowski/bulma-product-landing-page-template) - Free App/Landing Page template built with Bulma  
 
 ## Contribute
 
