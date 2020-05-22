@@ -54,6 +54,7 @@
 🎨 - [bulma-event-participation-template](https://github.com/aldi//bulma-event-participation-template) - Free Event Participation template built with Bulma  
 🎨 - [bulma-landing-page-template](https://github.com/hellobetkowski/bulma-product-landing-page-template) - Free App/Landing Page template built with Bulma  
 🎨 - [bulma-admin-dashboard-template](https://github.com/mazipan/bulma-admin-dashboard-template) - Free Admin Dashboard template built with Bulma  
+🎨 - [bulma-resume-template](https://github.com/mazipan/bulma-resume-template) - Free Resume Page template built with Bulma  
 
 ## Contribute
 
