@@ -58,7 +58,8 @@
 🎨 - [bulma-login-template](https://github.com/adriancast/Bulma-login-template) - Free Login Page Template built with Bulma  
 🎨 - [bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - Free Flexbox Templates built with Bulma  
 🎨 - [bulma-templates-admin-light](https://bulmatemplates.github.io/bulma-templates) - Free Admin Light Template built with the Bulma  
-🎨 - [bulma-templates-band](https://bulmatemplates.github.io/bulma-templates/) - Free Band template built with Bulma  
+🎨 - [bulma-templates-band](https://bulmatemplates.github.io/bulma-templates/) - Free Band Template built with Bulma  
+🎨 - [bulma-templates-blog](https://bulmatemplates.github.io/bulma-templates/) - Free Blog Template built with Bulma  
 
 ## Contribute
 
