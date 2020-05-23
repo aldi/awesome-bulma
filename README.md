@@ -56,6 +56,7 @@
 🎨 - [bulma-admin-dashboard-template](https://github.com/mazipan/bulma-admin-dashboard-template) - Free Admin Dashboard template built with Bulma  
 🎨 - [bulma-resume-template](https://github.com/mazipan/bulma-resume-template) - Free Resume Page template built with Bulma  
 🎨 - [bulma-login-template](https://github.com/adriancast/Bulma-login-template) - Free Login Page template built with Bulma  
+🎨 - [bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - Free flexbox templates built with Bulma  
 
 ## Contribute
 
