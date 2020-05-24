@@ -64,6 +64,7 @@
 🎨 - [bulma-templates-cheatsheet](https://bulmatemplates.github.io/bulma-templates/) - Free Cheatsheet Template built with Bulma  
 🎨 - [bulma-templates-cover](https://bulmatemplates.github.io/bulma-templates/) - Free Cover Template built with Bulma  
 🎨 - [bulma-templates-forum](https://bulmatemplates.github.io/bulma-templates/) - Free Forum Template built with Bulma  
+🎨 - [bulma-templates-hero](https://bulmatemplates.github.io/bulma-templates/) - Free Hero Template built with Bulma  
 
 ## Contribute
 
