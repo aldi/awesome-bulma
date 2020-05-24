@@ -61,6 +61,7 @@
 🎨 - [bulma-templates-band](https://bulmatemplates.github.io/bulma-templates/) - Free Band Template built with Bulma  
 🎨 - [bulma-templates-blog](https://bulmatemplates.github.io/bulma-templates/) - Free Blog Template built with Bulma  
 🎨 - [bulma-templates-cards](https://bulmatemplates.github.io/bulma-templates/) - Free Cards template built with Bulma  
+🎨 - [bulma-templates-cheatsheet](https://bulmatemplates.github.io/bulma-templates/) - Free Cheatsheet template built with Bulma  
 
 ## Contribute
 
