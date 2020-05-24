@@ -66,6 +66,7 @@
 🎨 - [bulma-templates-forum](https://bulmatemplates.github.io/bulma-templates/) - Free Forum Template built with Bulma  
 🎨 - [bulma-templates-hero](https://bulmatemplates.github.io/bulma-templates/) - Free Hero Template built with Bulma  
 🎨 - [bulma-templates-inbox](https://bulmatemplates.github.io/bulma-templates/) - Free Inbox Template built with Bulma  
+🎨 - [bulma-templates-image-timeline](https://bulmatemplates.github.io/bulma-templates/) - Free Image Timeline Template built with Bulma  
 
 ## Contribute
 
