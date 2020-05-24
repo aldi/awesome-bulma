@@ -63,6 +63,7 @@
 🎨 - [bulma-templates-cards](https://bulmatemplates.github.io/bulma-templates/) - Free Cards Template built with Bulma  
 🎨 - [bulma-templates-cheatsheet](https://bulmatemplates.github.io/bulma-templates/) - Free Cheatsheet Template built with Bulma  
 🎨 - [bulma-templates-cover](https://bulmatemplates.github.io/bulma-templates/) - Free Cover Template built with Bulma  
+🎨 - [bulma-templates-forum](https://bulmatemplates.github.io/bulma-templates/) - Free Forum Template built with Bulma  
 
 ## Contribute
 
