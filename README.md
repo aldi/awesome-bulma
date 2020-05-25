@@ -71,6 +71,7 @@
 🎨 - [bulma-templates-kanban.js](https://bulmatemplates.github.io/bulma-templates/) - Free Kanban.js Template built with Bulma  
 🎨 - [bulma-templates-landing](https://bulmatemplates.github.io/bulma-templates/) - Free Landing Template built with Bulma  
 🎨 - [bulma-templates-login](https://bulmatemplates.github.io/bulma-templates/) - Free Login Template built with Bulma  
+🎨 - [bulma-templates-modal-cards](https://bulmatemplates.github.io/bulma-templates/) - Free Modal Cards Template built with Bulma  
 
 ## Contribute
 
