@@ -68,7 +68,8 @@
 🎨 - [bulma-templates-inbox](https://bulmatemplates.github.io/bulma-templates/) - Free Inbox Template built with Bulma  
 🎨 - [bulma-templates-image-timeline](https://bulmatemplates.github.io/bulma-templates/) - Free Image Timeline Template built with Bulma  
 🎨 - [bulma-templates-kanban](https://bulmatemplates.github.io/bulma-templates/) - Free Kanban Template built with Bulma  
-🎨 - [bulma-templates-kanban.js](https://bulmatemplates.github.io/bulma-templates/) - Free Kanban.js template built with Bulma  
+🎨 - [bulma-templates-kanban.js](https://bulmatemplates.github.io/bulma-templates/) - Free Kanban.js Template built with Bulma  
+🎨 - [bulma-templates-landing](https://bulmatemplates.github.io/bulma-templates/) - Free Landing Template built with Bulma  
 
 ## Contribute
 
