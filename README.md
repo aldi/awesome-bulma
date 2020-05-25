@@ -73,6 +73,7 @@
 🎨 - [bulma-templates-login](https://bulmatemplates.github.io/bulma-templates/) - Free Login Template built with Bulma  
 🎨 - [bulma-templates-modal-cards](https://bulmatemplates.github.io/bulma-templates/) - Free Modal Cards Template built with Bulma  
 🎨 - [bulma-templates-portfolio](https://bulmatemplates.github.io/bulma-templates/) - Free Portfolio Template built with Bulma  
+🎨 - [bulma-templates-showcase](https://bulmatemplates.github.io/bulma-templates/) - Free Showcase Template built with Bulma  
 
 ## Contribute
 
