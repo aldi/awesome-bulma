@@ -74,6 +74,7 @@
 🎨 - [bulma-templates-modal-cards](https://bulmatemplates.github.io/bulma-templates/) - Free Modal Cards Template built with Bulma  
 🎨 - [bulma-templates-portfolio](https://bulmatemplates.github.io/bulma-templates/) - Free Portfolio Template built with Bulma  
 🎨 - [bulma-templates-showcase](https://bulmatemplates.github.io/bulma-templates/) - Free Showcase Template built with Bulma  
+🎨 - [bulma-templates-tabs](https://bulmatemplates.github.io/bulma-templates/) - Free Tabs Τemplate built with Bulma  
 
 ## Contribute
 
