@@ -82,7 +82,8 @@
 
 ### IDE Extensions
 
-💻 - [Bulma for VS Code](https://marketplace.visualstudio.com/items?itemName=demijollamaxime.bulma) - A set of Bulma Snippets for Visual Studio Code    
+💻 - [Bulma for VS Code](https://marketplace.visualstudio.com/items?itemName=demijollamaxime.bulma) - A set of Bulma Snippets for Visual Studio Code  
+💻 - [Bulma Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=fiazluthfi.bulma-snippets) - Visual Studio Code snippet extension for Tailwind CSS  
 
 ## Contribute
 
