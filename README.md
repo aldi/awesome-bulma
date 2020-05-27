@@ -12,6 +12,7 @@
   - [Useful Links](#useful-links)
   - [Starters](#starters)
   - [Templates](#templates)
+  - [IDE Extensions](#ide-extensions)
 
 ## Resources
 
@@ -78,6 +79,8 @@
 🎨 - [bulma-admin](https://github.com/nafplann/bulma-admin) - Free Admin Panel Template based on Bulma  
 🎨 - [jekyll-bulma](https://github.com/erayaydin/jekyll-bulma) - Bulma Jekyll Template based on Bulma  
 🎨 - [bulma-dashboard](https://github.com/SamZCoder/Bulma-Dashboard/) - Free Dashboard Template built with Bulma  
+
+### IDE Extensions  
 
 ## Contribute
 
