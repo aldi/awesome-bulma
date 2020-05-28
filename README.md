@@ -91,6 +91,7 @@
 ### Open-Source Projects
 
 :octocat: - [FileGator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager  
+:octocat: - [Bulmaswatch](https://jenil.github.io/bulmaswatch/) - Themes for Bulma  
 
 ## Contribute
 
