@@ -88,6 +88,8 @@
 💻 - [Bulma Autocomplete for Sublime Text 3](https://github.com/leuchte/bulma-autocomplete) - Sublime Text autocomplete plugin for the Bulma CSS Framework  
 💻 - [Bulma Autocomplete 2.0 for Atom](https://github.com/lowlevelm/Bulma-autocomplete-2) - An Atom module to improve your Bulma workflow  
 
+### Open-Source Projects
+
 ## Contribute
 
 Contributions welcome!
