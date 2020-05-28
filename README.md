@@ -86,6 +86,7 @@
 💻 - [Bulma Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=fiazluthfi.bulma-snippets) - Visual Studio Code snippet extension for Tailwind CSS  
 💻 - [Bulma Snippets for Sublime Text 3](https://github.com/OthmaneBlial/Bulma-Snippets-Sublime-Text-Plugin) - A set of Bulma Snippets for Sublime Text  
 💻 - [Bulma Autocomplete for Sublime Text 3](https://github.com/leuchte/bulma-autocomplete) - Sublime Text autocomplete plugin for the Bulma CSS Framework  
+💻 - [Bulma Autocomplete 2.0 for Atom](https://github.com/lowlevelm/Bulma-autocomplete-2) - An Atom module to improve your Bulma workflow  
 
 ## Contribute
 
