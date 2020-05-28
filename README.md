@@ -90,6 +90,8 @@
 
 ### Open-Source Projects
 
+:octocat: - [FileGator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager  
+
 ## Contribute
 
 Contributions welcome!
