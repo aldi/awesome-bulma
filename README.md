@@ -100,6 +100,7 @@
 ### Books
 
 📚 - [Creating interfaces with Bulma](https://jgthms.com/creating-interfaces-with-bulma-ebook/) - by Jeremy Thomas  
+📚 - [Learning Bulma](https://www.apress.com/gp/book/9781484254813/) by Aravind Shenoy  
 
 ## Contribute
 
