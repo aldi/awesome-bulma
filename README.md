@@ -13,6 +13,8 @@
   - [Starters](#starters)
   - [Templates](#templates)
   - [IDE Extensions](#ide-extensions)
+  - [Learning](#learning)
+    - [Books](#books)
 
 ## Resources
 
@@ -92,6 +94,10 @@
 
 :octocat: - [FileGator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager  
 :octocat: - [Bulmaswatch](https://jenil.github.io/bulmaswatch/) - Themes for Bulma  
+
+## Learning
+
+### Books
 
 ## Contribute
 
