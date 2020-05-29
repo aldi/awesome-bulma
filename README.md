@@ -15,6 +15,7 @@
   - [IDE Extensions](#ide-extensions)
   - [Learning](#learning)
     - [Books](#books)
+    - [Video Tutorials](#video-tutorials)
 
 ## Resources
 
@@ -101,6 +102,8 @@
 
 📚 - [Creating interfaces with Bulma](https://jgthms.com/creating-interfaces-with-bulma-ebook/) - by Jeremy Thomas  
 📚 - [Learning Bulma](https://www.apress.com/gp/book/9781484254813/) by Aravind Shenoy  
+
+### Video Tutorials
 
 ## Contribute
 
