@@ -99,6 +99,8 @@
 
 ### Books
 
+📚 - [Creating interfaces with Bulma](https://jgthms.com/creating-interfaces-with-bulma-ebook/) - by Jeremy Thomas  
+
 ## Contribute
 
 Contributions welcome!
