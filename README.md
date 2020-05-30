@@ -107,6 +107,7 @@
 
 🎬 - [Bulma CSS Framework Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg) - by TraversyMedia  
 🎬 - [Bulma CSS Framework - Complete Tutorial](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by FreeCodeCamp  
+🎬 - [Bulma CSS Framework - 1. Button Styles](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by Paul Halliday  
 
 ## Contribute
 
