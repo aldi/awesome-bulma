@@ -111,6 +111,7 @@
 🎬 - [Bulma CSS Framework - 2. Notifications](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by Paul Halliday  
 🎬 - [Bulma CSS Framework - 3. Progress Bars](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by Paul Halliday  
 🎬 - [Bulma CSS Framework - 4. Tags](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by Paul Halliday  
+🎬 - [Responsive Bulma CSS Navigation Bar](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by abwebtuts  
 
 ## Contribute
 
