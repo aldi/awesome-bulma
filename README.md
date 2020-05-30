@@ -110,6 +110,7 @@
 🎬 - [Bulma CSS Framework - 1. Button Styles](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by Paul Halliday  
 🎬 - [Bulma CSS Framework - 2. Notifications](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by Paul Halliday  
 🎬 - [Bulma CSS Framework - 3. Progress Bars](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by Paul Halliday  
+🎬 - [Bulma CSS Framework - 4. Tags](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by Paul Halliday  
 
 ## Contribute
 
