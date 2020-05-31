@@ -115,6 +115,7 @@
 🎬 - [Bulma CSS Framework - 1. Buttons & Modifiers](https://www.youtube.com/watch?v=Z6RtMMmiHq0) - by Rocky DeRaze  
 🎬 - [Bulma CSS Framework - 2. Helpers & Helper Classes](https://www.youtube.com/watch?v=VCwOsDJOZ3s) - by Rocky DeRaze  
 🎬 - [Bulma CSS Framework - 3. Responsive Helpers](https://www.youtube.com/watch?v=z47FvpbmJRg) - by Rocky DeRaze  
+🎬 - [Bulma CSS Framework - 4. Grid Columns - Layout](https://www.youtube.com/watch?v=desqDL5d_7I) - by Rocky DeRaze  
 
 ## Contribute
 
