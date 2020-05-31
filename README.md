@@ -112,6 +112,7 @@
 🎬 - [Bulma CSS Framework - 3. Progress Bars](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by Paul Halliday  
 🎬 - [Bulma CSS Framework - 4. Tags](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by Paul Halliday  
 🎬 - [Responsive Bulma CSS Navigation Bar](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by abwebtuts  
+🎬 - [Bulma CSS Framework - 1. Buttons & Modifiers](https://www.youtube.com/watch?v=Z6RtMMmiHq0) - by Rocky DeRaze  
 
 ## Contribute
 
