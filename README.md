@@ -113,6 +113,7 @@
 🎬 - [Bulma CSS Framework - 4. Tags](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by Paul Halliday  
 🎬 - [Responsive Bulma CSS Navigation Bar](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by abwebtuts  
 🎬 - [Bulma CSS Framework - 1. Buttons & Modifiers](https://www.youtube.com/watch?v=Z6RtMMmiHq0) - by Rocky DeRaze  
+🎬 - [Bulma CSS Framework - 2. Helpers & Helper Classes](https://www.youtube.com/watch?v=VCwOsDJOZ3s) - by Rocky DeRaze  
 
 ## Contribute
 
