@@ -119,6 +119,7 @@
 🎬 - [Bulma CSS Framework - 5. Grid Columns - Responsiveness](https://www.youtube.com/watch?v=gbiRO5npbpY) - by Rocky DeRaze  
 🎬 - [Bulma CSS Framework - Admin Dashboard Template Design](https://www.youtube.com/watch?v=RD2m0FkTS_o) - by FrontEndFunn  
 🎬 - [Intro to Bulma - A CSS Framework](https://www.youtube.com/watch?v=I8ezFcJ6AeM) - by Pretty Printed  
+🎬 - [How to create tiles in Bulma](https://www.youtube.com/watch?v=H-2tcg_Qvhs) - by Pretty Printed  
 
 ## Contribute
 
