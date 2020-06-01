@@ -127,6 +127,7 @@
 ### Courses
 
 🎓 - [Learn Bulma CSS for free](https://scrimba.com/g/gbulma) - Shimba  
+🎓 - [Building Websites with Bulma](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - Pluralsight  
 
 ## Contribute
 
