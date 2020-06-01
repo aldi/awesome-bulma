@@ -126,6 +126,8 @@
 
 ### Courses
 
+🎓 - [Learn Bulma CSS for free](https://scrimba.com/g/gbulma) - Shimba  
+
 ## Contribute
 
 Contributions welcome!
