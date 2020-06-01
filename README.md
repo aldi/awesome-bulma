@@ -120,6 +120,7 @@
 🎬 - [Bulma CSS Framework - Admin Dashboard Template Design](https://www.youtube.com/watch?v=RD2m0FkTS_o) - by FrontEndFunn  
 🎬 - [Intro to Bulma - A CSS Framework](https://www.youtube.com/watch?v=I8ezFcJ6AeM) - by Pretty Printed  
 🎬 - [How to create tiles in Bulma](https://www.youtube.com/watch?v=H-2tcg_Qvhs) - by Pretty Printed  
+🎬 - [Bulma Layouts - Sections, Containers, Columns, Levels](https://www.youtube.com/watch?v=ouI1_tZ1yK4) - by Pretty Printed  
 
 ## Contribute
 
