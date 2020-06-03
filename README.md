@@ -134,6 +134,7 @@
 ## UI Libraries & Components
 
 - [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma  
+- [bulma-rails](https://github.com/joshuajansen/bulma-rails/) - Integrates Bulma with the rails asset pipeline  
 
 ## Contribute
 
