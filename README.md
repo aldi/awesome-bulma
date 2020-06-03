@@ -135,6 +135,7 @@
 
 - [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma  
 - [bulma-rails](https://github.com/joshuajansen/bulma-rails/) - Integrates Bulma with the rails asset pipeline  
+- [react-bulma-components](https://github.com/couds/react-bulma-components/) - React components for Bulma  
 
 ## Contribute
 
