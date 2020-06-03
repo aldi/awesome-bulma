@@ -17,6 +17,7 @@
     - [Books](#books)
     - [Video Tutorials](#video-tutorials)
     - [Courses](#courses)
+- [UI Libraries & Components](#ui-libraries--components)
 
 ## Resources
 
@@ -129,6 +130,8 @@
 🎓 - [Learn Bulma CSS for free](https://scrimba.com/g/gbulma) - Shimba  
 🎓 - [Building Websites with Bulma](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - Pluralsight  
 🎓 - [Learn Bulma CSS for free](https://coursesity.com/course-detail/learn-bulma-css-for-free-) - Coursesity  
+
+## UI Libraries & Components
 
 ## Contribute
 
