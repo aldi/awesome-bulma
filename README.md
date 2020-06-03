@@ -133,6 +133,8 @@
 
 ## UI Libraries & Components
 
+- [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma  
+
 ## Contribute
 
 Contributions welcome!
