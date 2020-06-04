@@ -140,6 +140,7 @@
 - [react-bulma](https://github.com/kulakowka/react-bulma/) - React.js components for Bulma  
 - [svelma](https://github.com/c0bra/svelma/) - Bulma components for Svelte  
 - [svelte-bulma-components](https://github.com/elcobvg/svelte-bulma-components/) - Collection of Bulma UI components for Svelte  
+- [ng-wizi-bulma](https://github.com/WiziShop/ng-wizi-bulma/) - Bulma components for Angular  
 
 ## Contribute
 
