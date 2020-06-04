@@ -18,6 +18,7 @@
     - [Video Tutorials](#video-tutorials)
     - [Courses](#courses)
 - [UI Libraries & Components](#ui-libraries--components)
+- [Extensions](#extensions)
 
 ## Resources
 
@@ -142,6 +143,8 @@
 - [svelte-bulma-components](https://github.com/elcobvg/svelte-bulma-components/) - Collection of Bulma UI components for Svelte  
 - [ng-wizi-bulma](https://github.com/WiziShop/ng-wizi-bulma/) - Bulma components for Angular  
 - [ralma](https://github.com/aldi/ralma/) - Ractive.js Components for Bulma  
+
+## Extensions
 
 ## Contribute
 
