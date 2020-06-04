@@ -137,6 +137,7 @@
 - [bulma-rails](https://github.com/joshuajansen/bulma-rails/) - Integrates Bulma with the rails asset pipeline  
 - [react-bulma-components](https://github.com/couds/react-bulma-components/) - React components for Bulma  
 - [bloomer](https://github.com/AlgusDark/bloomer/) - A set of React components for Bulma  
+- [react-bulma](https://github.com/kulakowka/react-bulma/) - React.js components for Bulma  
 
 ## Contribute
 
