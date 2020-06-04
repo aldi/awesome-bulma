@@ -141,6 +141,7 @@
 - [svelma](https://github.com/c0bra/svelma/) - Bulma components for Svelte  
 - [svelte-bulma-components](https://github.com/elcobvg/svelte-bulma-components/) - Collection of Bulma UI components for Svelte  
 - [ng-wizi-bulma](https://github.com/WiziShop/ng-wizi-bulma/) - Bulma components for Angular  
+- [ralma](https://github.com/aldi/ralma/) - Ractive.js Components for Bulma  
 
 ## Contribute
 
