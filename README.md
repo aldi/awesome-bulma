@@ -139,6 +139,7 @@
 - [bloomer](https://github.com/AlgusDark/bloomer/) - A set of React components for Bulma  
 - [react-bulma](https://github.com/kulakowka/react-bulma/) - React.js components for Bulma  
 - [svelma](https://github.com/c0bra/svelma/) - Bulma components for Svelte  
+- [svelte-bulma-components](https://github.com/elcobvg/svelte-bulma-components/) - Collection of Bulma UI components for Svelte  
 
 ## Contribute
 
