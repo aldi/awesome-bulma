@@ -150,6 +150,7 @@
 - [bulma-o-steps](https://octoshrimpy.github.io/bulma-o-steps/) - An in-depth steps extension for multi-step forms or wizards  
 - [bulma-accordion](https://wikiki.github.io/components/accordion) - A simple accordion extension for Bulma  
 - [bulma-carousel](https://creativebulma.net/product/carousel/demo) - A simple carousel/slider extension for Bulma  
+- [bulma-quickview](https://wikiki.github.io/components/quickview/) - Display a quick view of data without leaving the current page  
 
 ## Contribute
 
