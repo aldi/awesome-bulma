@@ -146,6 +146,8 @@
 
 ## Extensions
 
+- [bulma-social](https://aldi.github.io/bulma-social) - 🤳 Social Sign-In Buttons based on Bulma and Font Awesome  
+
 ## Contribute
 
 Contributions welcome!
