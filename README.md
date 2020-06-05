@@ -147,6 +147,7 @@
 ## Extensions
 
 - [bulma-social](https://aldi.github.io/bulma-social) - 🤳 Social Sign-In Buttons based on Bulma and Font Awesome  
+- [bulma-o-steps](https://octoshrimpy.github.io/bulma-o-steps/) - An in-depth steps extension for multi-step forms or wizards  
 
 ## Contribute
 
