@@ -151,6 +151,7 @@
 - [bulma-accordion](https://wikiki.github.io/components/accordion) - A simple accordion extension for Bulma  
 - [bulma-carousel](https://creativebulma.net/product/carousel/demo) - A simple carousel/slider extension for Bulma  
 - [bulma-quickview](https://wikiki.github.io/components/quickview/) - Display a quick view of data without leaving the current page  
+- [bulma-iconpicker](https://wikiki.github.io/form/iconpicker/) - Display an input as an Icon Picker to ease the user icon selection  
 
 ## Contribute
 
