@@ -157,6 +157,7 @@
 - [bulma-megamenu](https://github.com/hunzaboy/bulma-megamenu/) - Bulma extension to make Mega Menus  
 - [bulma-coolcheckboxes](https://github.com/hunzaboy/Cool-Checkboxes-for-Bulma.io) - Cool CSS based checkbox for Bulma  
 - [bulma-slider](https://wikiki.github.io/form/slider) - Display a classic slider with different colors, sizes, and states  
+- [bulma.io-axure](https://github.com/Code-Mine-Development/Bulma.io-axure) - AxureRP Library with Bulma components  
 
 ## Contribute
 
