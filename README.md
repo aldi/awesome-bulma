@@ -156,6 +156,7 @@
 - [bulma-pricingtable](https://wikiki.github.io/components/pricingtable/) - Display an input as an Icon Picker to ease the user icon selection  
 - [bulma-megamenu](https://github.com/hunzaboy/bulma-megamenu/) - Bulma extension to make Mega Menus  
 - [bulma-coolcheckboxes](https://github.com/hunzaboy/Cool-Checkboxes-for-Bulma.io) - Cool CSS based checkbox for Bulma  
+- [bulma-slider](https://wikiki.github.io/form/slider) - Display a classic slider with different colors, sizes, and states  
 
 ## Contribute
 
