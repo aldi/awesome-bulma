@@ -154,6 +154,7 @@
 - [bulma-iconpicker](https://wikiki.github.io/form/iconpicker/) - Display an input as an Icon Picker to ease the user icon selection  
 - [bulma-tagsinput](https://wikiki.github.io/form/tagsinput/) - Modernize an add interaction on input of tags type  
 - [bulma-pricingtable](https://wikiki.github.io/components/pricingtable/) - Display an input as an Icon Picker to ease the user icon selection  
+- [bulma-megamenu](https://github.com/hunzaboy/bulma-megamenu/) - Bulma extension to make Mega Menus  
 
 ## Contribute
 
