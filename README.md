@@ -161,6 +161,7 @@
 - [bulma-checkradio](https://wikiki.github.io/form/checkradio) - Make classic checkbox and radio sexier with different colors, sizes, and states  
 - [bulma-switch](https://wikiki.github.io/form/switch) - Display the classic checkbox as a switch button with different colors, sizes, and states  
 - [bulma-steps (alternative)](https://aramvisser.github.io/bulma-steps/) - Keep track of where you are in multi steps forms and wizards  
+- [bulma-divider](https://wikiki.github.io/layout/divider) - Display a vertical or horizontal divider to segment your design  
 
 ## Contribute
 
