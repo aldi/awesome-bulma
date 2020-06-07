@@ -162,6 +162,7 @@
 - [bulma-switch](https://wikiki.github.io/form/switch) - Display the classic checkbox as a switch button with different colors, sizes, and states  
 - [bulma-steps (alternative)](https://aramvisser.github.io/bulma-steps/) - Keep track of where you are in multi steps forms and wizards  
 - [bulma-divider](https://wikiki.github.io/layout/divider) - Display a vertical or horizontal divider to segment your design  
+- [bulma-calendar](https://wikiki.github.io/components/calendar) - Display a calendar with different colors and sizes  
 
 ## Contribute
 
