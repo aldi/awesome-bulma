@@ -159,6 +159,7 @@
 - [bulma-slider](https://wikiki.github.io/form/slider) - Display a classic slider with different colors, sizes, and states  
 - [bulma.io-axure](https://github.com/Code-Mine-Development/Bulma.io-axure) - AxureRP Library with Bulma components  
 - [bulma-checkradio](https://wikiki.github.io/form/checkradio) - Make classic checkbox and radio sexier with different colors, sizes, and states  
+- [bulma-switch](https://wikiki.github.io/form/switch) - Display the classic checkbox as a switch button with different colors, sizes, and states  
 
 ## Contribute
 
