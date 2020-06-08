@@ -165,6 +165,7 @@
 - [bulma-calendar](https://wikiki.github.io/components/calendar) - Display a calendar with different colors and sizes  
 - [bulma-pageloader](https://wikiki.github.io/elements/pageloader) - Display a page-loader to inform users that content is loading, in different colors  
 - [bulma-ribbon](https://github.com/Wikiki/bulma-ribbon) - Bulma's extension to show a ribbon on boxes  
+- [bulma-badge](https://wikiki.github.io/elements/badge) - Display a badge element in front of Bulma's element in different colors  
 
 ## Contribute
 
