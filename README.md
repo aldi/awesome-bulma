@@ -168,6 +168,7 @@
 - [bulma-ribbon](https://github.com/Wikiki/bulma-ribbon) - Bulma's extension to show a ribbon on boxes  
 - [bulma-badge](https://wikiki.github.io/elements/badge) - Display a badge element in front of Bulma's element in different colors  
 - [bulma-tooltip](https://wikiki.github.io/elements/tooltip) - Display a tooltip attached to any kind of element with different positioning  
+- [bulma-timeline](https://wikiki.github.io/components/timeline) - Display a vertical timeline, in different colors, sizes, and states  
 
 ## Contribute
 
