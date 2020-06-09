@@ -169,6 +169,7 @@
 - [bulma-badge](https://wikiki.github.io/elements/badge) - Display a badge element in front of Bulma's element in different colors  
 - [bulma-tooltip](https://wikiki.github.io/elements/tooltip) - Display a tooltip attached to any kind of element with different positioning  
 - [bulma-timeline](https://wikiki.github.io/components/timeline) - Display a vertical timeline, in different colors, sizes, and states  
+- [bulma-toast](https://https://github.com/rfoel/bulma-toast/) - Bulma's pure JavaScript extension to display toasts  
 
 ## Contribute
 
@@ -178,4 +179,4 @@ Contributions welcome!
 
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
-To the extent possible under law, [aldi](https://aldiduzha.com) has waived all copyright and related or neighboring rights to this work.
+To the extent possible under law, [aldi](https://github.com/aldi) has waived all copyright and related or neighboring rights to this work.
