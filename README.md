@@ -170,6 +170,7 @@
 - [bulma-tooltip](https://wikiki.github.io/elements/tooltip) - Display a tooltip attached to any kind of element with different positioning  
 - [bulma-timeline](https://wikiki.github.io/components/timeline) - Display a vertical timeline, in different colors, sizes, and states  
 - [bulma-toast](https://https://github.com/rfoel/bulma-toast/) - Bulma's pure JavaScript extension to display toasts  
+- [bulma-dashboard](https://github.com/lucperkins/bulma-dashboard) - Write easily dashboard-style interfaces with fixed horizontal panels  
 
 ## Contribute
 
