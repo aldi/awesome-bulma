@@ -20,6 +20,7 @@
     - [Courses](#courses)
 - [UI Libraries & Components](#ui-libraries--components)
 - [Extensions](#extensions)
+- [Expo](#expo)
 
 ## Resources
 
@@ -175,9 +176,11 @@
 - [bulma-block-list](https://github.com/chrisrhymes/bulma-block-list) - A simple scss package extending Bulma with block style list elements  
 - [bulma-spacing](https://github.com/kaangokdemir/bulma-spacing) - Missing spacing classes for Bulma ecosystem  
 
+## Expo
+
 ## Contribute
 
-Contributions welcome!
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.  
 
 ## License
 
