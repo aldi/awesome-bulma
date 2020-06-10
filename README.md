@@ -13,6 +13,7 @@
   - [Starters](#starters)
   - [Templates](#templates)
   - [IDE Extensions](#ide-extensions)
+  - [Open-Source Projects](#open-source-projects)
   - [Learning](#learning)
     - [Books](#books)
     - [Video Tutorials](#video-tutorials)
