@@ -51,45 +51,7 @@
 🏁 - [react-starter](https://github.com/chvid/react-starter) - A starter for React/Bulma/Webpack  
 🏁 - [next-bulma](https://github.com/louiskhenghao/next-bulma) - NextJs with Bulma CSS Framework  
 🏁 - [hyperbulma](https://github.com/cutemachine/hyperbulma) - A starter project for using Hyperapp with Bulma CSS  
-🏁 - [parcel-starter-kit](https://github.com/emendelski/parcel-starter-kit) - Simple boilerplate: Parcel, Bulma, Babel, Autoprefixer, Posthtml, Eslint and SCSS
-
-### Templates  
-
-🎨 - [awesome-bulma-templates](https://github.com/aldi/awesome-bulma-templates/tree/master/templates) - Free Real World Templates built with Bulma  
-🎨 - [bulma-rent-template](https://github.com/aldi/bulma-rent-template) - Free Rent Template built with Bulma  
-🎨 - [bulma-cv-template](https://github.com/aldi/bulma-cv-template) - Free CV Template built with Bulma  
-🎨 - [bulma-hotel-template](https://github.com/aldi/bulma-hotel-template) - Free Hotel Template built with Bulma  
-🎨 - [bulma-coming-soon-template](https://github.com/aldi/bulma-coming-soon-template) - Free Coming Soon Template built with Bulma  
-🎨 - [bulma-login-template](https://github.com/aldi/bulma-login-template) - Free Login Page Template built with Bulma  
-🎨 - [bulma-event-participation-template](https://github.com/aldi//bulma-event-participation-template) - Free Event Participation Template built with Bulma  
-🎨 - [bulma-landing-page-template](https://github.com/hellobetkowski/bulma-product-landing-page-template) - Free App/Landing Page Template built with Bulma  
-🎨 - [bulma-admin-dashboard-template](https://github.com/mazipan/bulma-admin-dashboard-template) - Free Admin Dashboard Template built with Bulma  
-🎨 - [bulma-resume-template](https://github.com/mazipan/bulma-resume-template) - Free Resume Page Template built with Bulma  
-🎨 - [bulma-login-template](https://github.com/adriancast/Bulma-login-template) - Free Login Page Template built with Bulma  
-🎨 - [bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - Free Flexbox Templates built with Bulma  
-🎨 - [bulma-templates-admin-light](https://bulmatemplates.github.io/bulma-templates) - Free Admin Light Template built with the Bulma  
-🎨 - [bulma-templates-band](https://bulmatemplates.github.io/bulma-templates/) - Free Band Template built with Bulma  
-🎨 - [bulma-templates-blog](https://bulmatemplates.github.io/bulma-templates/) - Free Blog Template built with Bulma  
-🎨 - [bulma-templates-cards](https://bulmatemplates.github.io/bulma-templates/) - Free Cards Template built with Bulma  
-🎨 - [bulma-templates-cheatsheet](https://bulmatemplates.github.io/bulma-templates/) - Free Cheatsheet Template built with Bulma  
-🎨 - [bulma-templates-cover](https://bulmatemplates.github.io/bulma-templates/) - Free Cover Template built with Bulma  
-🎨 - [bulma-templates-forum](https://bulmatemplates.github.io/bulma-templates/) - Free Forum Template built with Bulma  
-🎨 - [bulma-templates-hero](https://bulmatemplates.github.io/bulma-templates/) - Free Hero Template built with Bulma  
-🎨 - [bulma-templates-inbox](https://bulmatemplates.github.io/bulma-templates/) - Free Inbox Template built with Bulma  
-🎨 - [bulma-templates-image-timeline](https://bulmatemplates.github.io/bulma-templates/) - Free Image Timeline Template built with Bulma  
-🎨 - [bulma-templates-kanban](https://bulmatemplates.github.io/bulma-templates/) - Free Kanban Template built with Bulma  
-🎨 - [bulma-templates-kanban.js](https://bulmatemplates.github.io/bulma-templates/) - Free Kanban.js Template built with Bulma  
-🎨 - [bulma-templates-landing](https://bulmatemplates.github.io/bulma-templates/) - Free Landing Template built with Bulma  
-🎨 - [bulma-templates-login](https://bulmatemplates.github.io/bulma-templates/) - Free Login Template built with Bulma  
-🎨 - [bulma-templates-modal-cards](https://bulmatemplates.github.io/bulma-templates/) - Free Modal Cards Template built with Bulma  
-🎨 - [bulma-templates-portfolio](https://bulmatemplates.github.io/bulma-templates/) - Free Portfolio Template built with Bulma  
-🎨 - [bulma-templates-showcase](https://bulmatemplates.github.io/bulma-templates/) - Free Showcase Template built with Bulma  
-🎨 - [bulma-templates-tabs](https://bulmatemplates.github.io/bulma-templates/) - Free Tabs Τemplate built with Bulma  
-🎨 - [bulma-admin](https://github.com/nafplann/bulma-admin) - Free Admin Panel Template based on Bulma  
-🎨 - [jekyll-bulma](https://github.com/erayaydin/jekyll-bulma) - Bulma Jekyll Template based on Bulma  
-🎨 - [bulma-dashboard](https://github.com/SamZCoder/Bulma-Dashboard/) - Free Dashboard Template built with Bulma 
-
-### Themes 
+🏁 - [parcel-starter-kit](https://github.com/emendelski/parcel-starter-kit) - Simple boilerplate: Parcel, Bulma, Babel, Autoprefixer, Posthtml, Eslint and SCSS  
 
 ### IDE Extensions
 
@@ -102,7 +64,46 @@
 ### Open-Source Projects
 
 :octocat: - [FileGator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager  
-:octocat: - [Bulmaswatch](https://jenil.github.io/bulmaswatch/) - Themes for Bulma  
+
+### Templates  
+
+🖼️ - [awesome-bulma-templates](https://github.com/aldi/awesome-bulma-templates/tree/master/templates) - Free Real World Templates built with Bulma  
+🖼️ - [bulma-rent-template](https://github.com/aldi/bulma-rent-template) - Free Rent Template built with Bulma  
+🖼️ - [bulma-cv-template](https://github.com/aldi/bulma-cv-template) - Free CV Template built with Bulma  
+🖼️ - [bulma-hotel-template](https://github.com/aldi/bulma-hotel-template) - Free Hotel Template built with Bulma  
+🖼️ - [bulma-coming-soon-template](https://github.com/aldi/bulma-coming-soon-template) - Free Coming Soon Template built with Bulma  
+🖼️ - [bulma-login-template](https://github.com/aldi/bulma-login-template) - Free Login Page Template built with Bulma  
+🖼️ - [bulma-event-participation-template](https://github.com/aldi//bulma-event-participation-template) - Free Event Participation Template built with Bulma  
+🖼️ - [bulma-landing-page-template](https://github.com/hellobetkowski/bulma-product-landing-page-template) - Free App/Landing Page Template built with Bulma  
+🖼️ - [bulma-admin-dashboard-template](https://github.com/mazipan/bulma-admin-dashboard-template) - Free Admin Dashboard Template built with Bulma  
+🖼️ - [bulma-resume-template](https://github.com/mazipan/bulma-resume-template) - Free Resume Page Template built with Bulma  
+🖼️ - [bulma-login-template](https://github.com/adriancast/Bulma-login-template) - Free Login Page Template built with Bulma  
+🖼️ - [bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - Free Flexbox Templates built with Bulma  
+🖼️ - [bulma-templates-admin-light](https://bulmatemplates.github.io/bulma-templates) - Free Admin Light Template built with the Bulma  
+🖼️ - [bulma-templates-band](https://bulmatemplates.github.io/bulma-templates/) - Free Band Template built with Bulma  
+🖼️ - [bulma-templates-blog](https://bulmatemplates.github.io/bulma-templates/) - Free Blog Template built with Bulma  
+🖼️ - [bulma-templates-cards](https://bulmatemplates.github.io/bulma-templates/) - Free Cards Template built with Bulma  
+🖼️ - [bulma-templates-cheatsheet](https://bulmatemplates.github.io/bulma-templates/) - Free Cheatsheet Template built with Bulma  
+🖼️ - [bulma-templates-cover](https://bulmatemplates.github.io/bulma-templates/) - Free Cover Template built with Bulma  
+🖼️ - [bulma-templates-forum](https://bulmatemplates.github.io/bulma-templates/) - Free Forum Template built with Bulma  
+🖼️ - [bulma-templates-hero](https://bulmatemplates.github.io/bulma-templates/) - Free Hero Template built with Bulma  
+🖼️ - [bulma-templates-inbox](https://bulmatemplates.github.io/bulma-templates/) - Free Inbox Template built with Bulma  
+🖼️ - [bulma-templates-image-timeline](https://bulmatemplates.github.io/bulma-templates/) - Free Image Timeline Template built with Bulma  
+🖼️ - [bulma-templates-kanban](https://bulmatemplates.github.io/bulma-templates/) - Free Kanban Template built with Bulma  
+🖼️ - [bulma-templates-kanban.js](https://bulmatemplates.github.io/bulma-templates/) - Free Kanban.js Template built with Bulma  
+🖼️ - [bulma-templates-landing](https://bulmatemplates.github.io/bulma-templates/) - Free Landing Template built with Bulma  
+🖼️ - [bulma-templates-login](https://bulmatemplates.github.io/bulma-templates/) - Free Login Template built with Bulma  
+🖼️ - [bulma-templates-modal-cards](https://bulmatemplates.github.io/bulma-templates/) - Free Modal Cards Template built with Bulma  
+🖼️ - [bulma-templates-portfolio](https://bulmatemplates.github.io/bulma-templates/) - Free Portfolio Template built with Bulma  
+🖼️ - [bulma-templates-showcase](https://bulmatemplates.github.io/bulma-templates/) - Free Showcase Template built with Bulma  
+🖼️ - [bulma-templates-tabs](https://bulmatemplates.github.io/bulma-templates/) - Free Tabs Τemplate built with Bulma  
+🖼️ - [bulma-admin](https://github.com/nafplann/bulma-admin) - Free Admin Panel Template based on Bulma  
+🖼️ - [jekyll-bulma](https://github.com/erayaydin/jekyll-bulma) - Bulma Jekyll Template based on Bulma  
+🖼️ - [bulma-dashboard](https://github.com/SamZCoder/Bulma-Dashboard/) - Free Dashboard Template built with Bulma 
+
+### Themes
+
+🎨 - [bulmaswatch](https://jenil.github.io/bulmaswatch/) - Themes for Bulma  
 
 ## Learning
 
