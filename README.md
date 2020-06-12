@@ -182,6 +182,7 @@
 
 ## Expo
 
+✨ - [Oneday](https://www.oneday.design/)
 ✨ - [Booknshelf](https://booknshelf.com/)  
 
 ## Contribute
