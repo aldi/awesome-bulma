@@ -182,7 +182,8 @@
 
 ## Expo
 
-✨ - [Oneday](https://www.oneday.design/)
+✨ - [jgthms](https://jgthms.com/)  
+✨ - [Oneday](https://www.oneday.design/)  
 ✨ - [Booknshelf](https://booknshelf.com/)  
 
 ## Contribute
