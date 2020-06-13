@@ -182,6 +182,7 @@
 
 ## Expo
 
+✨ - [mattfarley](https://mattfarley.ca/)  
 ✨ - [jgthms](https://jgthms.com/)  
 ✨ - [Oneday](https://www.oneday.design/)  
 ✨ - [Booknshelf](https://booknshelf.com/)  
