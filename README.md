@@ -182,6 +182,7 @@
 
 ## Expo
 
+✨ - [faulthero](https://www.faulthero.com/)  
 ✨ - [mattfarley](https://mattfarley.ca/)  
 ✨ - [jgthms](https://jgthms.com/)  
 ✨ - [Oneday](https://www.oneday.design/)  
