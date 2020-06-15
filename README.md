@@ -182,6 +182,7 @@
 
 ## Expo
 
+✨ - [Reception Halls](https://www.receptionhalls.com/)  
 ✨ - [faulthero](https://www.faulthero.com/)  
 ✨ - [mattfarley](https://mattfarley.ca/)  
 ✨ - [jgthms](https://jgthms.com/)  
