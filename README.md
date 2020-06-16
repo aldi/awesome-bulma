@@ -182,6 +182,7 @@
 
 ## Expo
 
+✨ - [Snipper App](https://snipper.app/)  
 ✨ - [GreenPeace Uncut](https://uncut.ro/index.en.html)  
 ✨ - [Reception Halls](https://www.receptionhalls.com/)  
 ✨ - [faulthero](https://www.faulthero.com/)  
