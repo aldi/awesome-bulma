@@ -182,6 +182,7 @@
 
 ## Expo
 
+✨ - [Pingstack](https://pingstack.io/)  
 ✨ - [SaaSHub](https://www.saashub.com/)  
 ✨ - [Snipper App](https://snipper.app/)  
 ✨ - [GreenPeace Uncut](https://uncut.ro/index.en.html)  
