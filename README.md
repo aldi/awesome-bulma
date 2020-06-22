@@ -182,6 +182,7 @@
 
 ## Expo
 
+✨ - [Agilox](https://www.agilox.net/en)  
 ✨ - [Pingstack](https://pingstack.io/)  
 ✨ - [SaaSHub](https://www.saashub.com/)  
 ✨ - [Snipper App](https://snipper.app/)  
