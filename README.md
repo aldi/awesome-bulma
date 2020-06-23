@@ -51,7 +51,7 @@
 🏁 - [react-starter](https://github.com/chvid/react-starter) - A starter for React/Bulma/Webpack  
 🏁 - [next-bulma](https://github.com/louiskhenghao/next-bulma) - NextJs with Bulma CSS Framework  
 🏁 - [hyperbulma](https://github.com/cutemachine/hyperbulma) - A starter project for using Hyperapp with Bulma CSS  
-🏁 - [parcel-starter-kit](https://github.com/emendelski/parcel-starter-kit) - Simple boilerplate: Parcel, Bulma, Babel, Autoprefixer, Posthtml, Eslint and SCSS  
+🏁 - [parcel-starter-kit](https://github.com/emendelski/parcel-starter-kit) - Simple boilerplate: Parcel, Bulma, Babel, Autoprefixer, Posthtml, Eslint and SCSS
 
 ### IDE Extensions
 
@@ -59,13 +59,13 @@
 💻 - [Bulma Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=fiazluthfi.bulma-snippets) - Visual Studio Code snippet extension for Tailwind CSS  
 💻 - [Bulma Snippets for Sublime Text 3](https://github.com/OthmaneBlial/Bulma-Snippets-Sublime-Text-Plugin) - A set of Bulma Snippets for Sublime Text  
 💻 - [Bulma Autocomplete for Sublime Text 3](https://github.com/leuchte/bulma-autocomplete) - Sublime Text autocomplete plugin for the Bulma CSS Framework  
-💻 - [Bulma Autocomplete 2.0 for Atom](https://github.com/lowlevelm/Bulma-autocomplete-2) - An Atom module to improve your Bulma workflow  
+💻 - [Bulma Autocomplete 2.0 for Atom](https://github.com/lowlevelm/Bulma-autocomplete-2) - An Atom module to improve your Bulma workflow
 
 ### Open-Source Projects
 
-:octocat: - [FileGator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager  
+:octocat: - [FileGator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
 
-### Templates  
+### Templates
 
 🖼️ - [awesome-bulma-templates](https://github.com/aldi/awesome-bulma-templates/tree/master/templates) - Free Real World Templates built with Bulma  
 🖼️ - [bulma-rent-template](https://github.com/aldi/bulma-rent-template) - Free Rent Template built with Bulma  
@@ -99,18 +99,18 @@
 🖼️ - [bulma-templates-tabs](https://bulmatemplates.github.io/bulma-templates/) - Free Tabs Τemplate built with Bulma  
 🖼️ - [bulma-admin](https://github.com/nafplann/bulma-admin) - Free Admin Panel Template based on Bulma  
 🖼️ - [jekyll-bulma](https://github.com/erayaydin/jekyll-bulma) - Bulma Jekyll Template based on Bulma  
-🖼️ - [bulma-dashboard](https://github.com/SamZCoder/Bulma-Dashboard/) - Free Dashboard Template built with Bulma 
+🖼️ - [bulma-dashboard](https://github.com/SamZCoder/Bulma-Dashboard/) - Free Dashboard Template built with Bulma
 
 ### Themes
 
-🎨 - [bulmaswatch](https://jenil.github.io/bulmaswatch/) - Themes for Bulma  
+🎨 - [bulmaswatch](https://jenil.github.io/bulmaswatch/) - Themes for Bulma
 
 ## Learning
 
 ### Books
 
 📚 - [Creating interfaces with Bulma](https://jgthms.com/creating-interfaces-with-bulma-ebook/) - by Jeremy Thomas  
-📚 - [Learning Bulma](https://www.apress.com/gp/book/9781484254813/) by Aravind Shenoy  
+📚 - [Learning Bulma](https://www.apress.com/gp/book/9781484254813/) by Aravind Shenoy
 
 ### Video Tutorials
 
@@ -130,55 +130,56 @@
 🎬 - [Intro to Bulma - A CSS Framework](https://www.youtube.com/watch?v=I8ezFcJ6AeM) - by Pretty Printed  
 🎬 - [How to create tiles in Bulma](https://www.youtube.com/watch?v=H-2tcg_Qvhs) - by Pretty Printed  
 🎬 - [Bulma Layouts - Sections, Containers, Columns, Levels](https://www.youtube.com/watch?v=ouI1_tZ1yK4) - by Pretty Printed  
-🎬 - [JavaScript Zipcode App Using Fetch & Bulma CSS](https://www.youtube.com/watch?v=K3GfUH7AZKs) - by Traversy Media  
+🎬 - [JavaScript Zipcode App Using Fetch & Bulma CSS](https://www.youtube.com/watch?v=K3GfUH7AZKs) - by Traversy Media
 
 ### Courses
 
 🎓 - [Learn Bulma CSS for free](https://scrimba.com/g/gbulma) - Shimba  
 🎓 - [Building Websites with Bulma](https://www.youtube.com/watch?v=7gX_ApBeSpQ) - Pluralsight  
-🎓 - [Learn Bulma CSS for free](https://coursesity.com/course-detail/learn-bulma-css-for-free-) - Coursesity  
+🎓 - [Learn Bulma CSS for free](https://coursesity.com/course-detail/learn-bulma-css-for-free-) - Coursesity
 
 ## UI Libraries & Components
 
-- [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma  
-- [bulma-rails](https://github.com/joshuajansen/bulma-rails/) - Integrates Bulma with the rails asset pipeline  
-- [react-bulma-components](https://github.com/couds/react-bulma-components/) - React components for Bulma  
-- [bloomer](https://github.com/AlgusDark/bloomer/) - A set of React components for Bulma  
-- [react-bulma](https://github.com/kulakowka/react-bulma/) - React.js components for Bulma  
-- [svelma](https://github.com/c0bra/svelma/) - Bulma components for Svelte  
-- [svelte-bulma-components](https://github.com/elcobvg/svelte-bulma-components/) - Collection of Bulma UI components for Svelte  
-- [ng-wizi-bulma](https://github.com/WiziShop/ng-wizi-bulma/) - Bulma components for Angular  
-- [ralma](https://github.com/aldi/ralma/) - Ractive.js Components for Bulma  
+- [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma
+- [bulma-rails](https://github.com/joshuajansen/bulma-rails/) - Integrates Bulma with the rails asset pipeline
+- [react-bulma-components](https://github.com/couds/react-bulma-components/) - React components for Bulma
+- [bloomer](https://github.com/AlgusDark/bloomer/) - A set of React components for Bulma
+- [react-bulma](https://github.com/kulakowka/react-bulma/) - React.js components for Bulma
+- [svelma](https://github.com/c0bra/svelma/) - Bulma components for Svelte
+- [svelte-bulma-components](https://github.com/elcobvg/svelte-bulma-components/) - Collection of Bulma UI components for Svelte
+- [bulma.io-axure](https://github.com/Code-Mine-Development/Bulma.io-axure) - AxureRP Library with Bulma components
+- [ng-wizi-bulma](https://github.com/WiziShop/ng-wizi-bulma/) - Bulma components for Angular
+- [ralma](https://github.com/aldi/ralma/) - Ractive.js Components for Bulma
 
 ## Extensions
 
-- [bulma-social](https://aldi.github.io/bulma-social) - 🤳 Social Sign-In Buttons based on Bulma and Font Awesome  
-- [bulma-o-steps](https://octoshrimpy.github.io/bulma-o-steps/) - An in-depth steps extension for multi-step forms or wizards  
-- [bulma-accordion](https://wikiki.github.io/components/accordion) - A simple accordion extension for Bulma  
-- [bulma-carousel](https://creativebulma.net/product/carousel/demo) - A simple carousel/slider extension for Bulma  
-- [bulma-quickview](https://wikiki.github.io/components/quickview/) - Display a quick view of data without leaving the current page  
-- [bulma-iconpicker](https://wikiki.github.io/form/iconpicker/) - Display an input as an Icon Picker to ease the user icon selection  
-- [bulma-tagsinput](https://wikiki.github.io/form/tagsinput/) - Modernize an add interaction on input of tags type  
-- [bulma-pricingtable](https://wikiki.github.io/components/pricingtable/) - Display an input as an Icon Picker to ease the user icon selection  
-- [bulma-megamenu](https://github.com/hunzaboy/bulma-megamenu/) - Bulma extension to make Mega Menus  
-- [bulma-coolcheckboxes](https://github.com/hunzaboy/Cool-Checkboxes-for-Bulma.io) - Cool CSS based checkbox for Bulma  
-- [bulma-slider](https://wikiki.github.io/form/slider) - Display a classic slider with different colors, sizes, and states  
-- [bulma.io-axure](https://github.com/Code-Mine-Development/Bulma.io-axure) - AxureRP Library with Bulma components  
-- [bulma-checkradio](https://wikiki.github.io/form/checkradio) - Make classic checkbox and radio sexier with different colors, sizes, and states  
-- [bulma-switch](https://wikiki.github.io/form/switch) - Display the classic checkbox as a switch button with different colors, sizes, and states  
-- [bulma-steps](https://wikiki.github.io/components/steps) - Display steps for a process (like sign-up or an order form) with different colors, sizes, and states  
-- [bulma-steps (alternative)](https://aramvisser.github.io/bulma-steps/) - Keep track of where you are in multi steps forms and wizards  
-- [bulma-divider](https://wikiki.github.io/layout/divider) - Display a vertical or horizontal divider to segment your design  
-- [bulma-calendar](https://wikiki.github.io/components/calendar) - Display a calendar with different colors and sizes  
-- [bulma-pageloader](https://wikiki.github.io/elements/pageloader) - Display a page-loader to inform users that content is loading, in different colors  
-- [bulma-ribbon](https://github.com/Wikiki/bulma-ribbon) - Bulma's extension to show a ribbon on boxes  
-- [bulma-badge](https://wikiki.github.io/elements/badge) - Display a badge element in front of Bulma's element in different colors  
-- [bulma-tooltip](https://wikiki.github.io/elements/tooltip) - Display a tooltip attached to any kind of element with different positioning  
-- [bulma-timeline](https://wikiki.github.io/components/timeline) - Display a vertical timeline, in different colors, sizes, and states  
-- [bulma-toast](https://https://github.com/rfoel/bulma-toast/) - Bulma's pure JavaScript extension to display toasts  
-- [bulma-dashboard](https://github.com/lucperkins/bulma-dashboard) - Write easily dashboard-style interfaces with fixed horizontal panels  
-- [bulma-block-list](https://github.com/chrisrhymes/bulma-block-list) - A simple scss package extending Bulma with block style list elements  
-- [bulma-spacing](https://github.com/kaangokdemir/bulma-spacing) - Missing spacing classes for Bulma ecosystem  
+- [bulma-social](https://aldi.github.io/bulma-social) - 🤳 Social Sign-In Buttons based on Bulma and Font Awesome
+- [bulma-calendar](https://wikiki.github.io/components/calendar) - Display a calendar with different colors and sizes
+- [bulma-timeline](https://wikiki.github.io/components/timeline) - Display a vertical timeline, in different colors, sizes, and states
+- [bulma-carousel](https://github.com/Wikiki/bulma-carousel) - Bulma's extension to display a Carousel
+- [bulma-megamenu](https://github.com/hunzaboy/bulma-megamenu/) - Bulma extension to make Mega Menus
+- [bulma-steps](https://wikiki.github.io/components/steps) - Display steps for a process (like sign-up or an order form) with different colors, sizes, and states
+- [bulma-switch](https://wikiki.github.io/form/switch) - Display the classic checkbox as a switch button with different colors, sizes, and states
+- [bulma-pageloader](https://wikiki.github.io/elements/pageloader) - Display a page-loader to inform users that content is loading, in different colors
+- [bulma-checkradio](https://wikiki.github.io/form/checkradio) - Make classic checkbox and radio sexier with different colors, sizes, and states
+- [bulma-pricingtable](https://wikiki.github.io/components/pricingtable/) - Display an input as an Icon Picker to ease the user icon selection
+- [bulma-accordion](https://wikiki.github.io/components/accordion) - A simple accordion extension for Bulma
+- [bulma-slider](https://wikiki.github.io/form/slider) - Display a classic slider with different colors, sizes, and states
+- [bulma-ribbon](https://github.com/Wikiki/bulma-ribbon) - Bulma's extension to show a ribbon on boxes
+- [bulma-quickview](https://wikiki.github.io/components/quickview/) - Display a quick view of data without leaving the current page
+- [bulma-carousel](https://creativebulma.net/product/carousel/demo) - A simple carousel/slider extension for Bulma
+- [bulma-iconpicker](https://wikiki.github.io/form/iconpicker/) - Display an input as an Icon Picker to ease the user icon selection
+- [bulma-o-steps](https://octoshrimpy.github.io/bulma-o-steps/) - An in-depth steps extension for multi-step forms or wizards
+- [bulma-coolcheckboxes](https://github.com/hunzaboy/Cool-Checkboxes-for-Bulma.io) - Cool CSS based checkbox for Bulma
+- [bulma-dashboard](https://github.com/lucperkins/bulma-dashboard) - Write easily dashboard-style interfaces with fixed horizontal panels
+- [bulma-steps (alternative)](https://aramvisser.github.io/bulma-steps/) - Keep track of where you are in multi steps forms and wizards
+- [bulma-divider](https://wikiki.github.io/layout/divider) - Display a vertical or horizontal divider to segment your design
+- [bulma-badge](https://wikiki.github.io/elements/badge) - Display a badge element in front of Bulma's element in different colors
+- [bulma-tooltip](https://wikiki.github.io/elements/tooltip) - Display a tooltip attached to any kind of element with different positioning
+- [bulma-toast](https://https://github.com/rfoel/bulma-toast/) - Bulma's pure JavaScript extension to display toasts
+- [bulma-tagsinput](https://wikiki.github.io/form/tagsinput/) - Modernize an add interaction on input of tags type
+- [bulma-block-list](https://github.com/chrisrhymes/bulma-block-list) - A simple scss package extending Bulma with block style list elements
+- [bulma-spacing](https://github.com/kaangokdemir/bulma-spacing) - Missing spacing classes for Bulma ecosystem
 
 ## Expo
 
@@ -192,11 +193,11 @@
 ✨ - [mattfarley](https://mattfarley.ca/)  
 ✨ - [jgthms](https://jgthms.com/)  
 ✨ - [Oneday](https://www.oneday.design/)  
-✨ - [Booknshelf](https://booknshelf.com/)  
+✨ - [Booknshelf](https://booknshelf.com/)
 
 ## Contribute
 
-Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.  
+Contributions welcome! Read the [contribution guidelines](CONTRIBUTING.md) first.
 
 ## License
 
