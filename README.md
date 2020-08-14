@@ -158,7 +158,7 @@
 - [bulma-timeline](https://wikiki.github.io/components/timeline) - Display a vertical timeline, in different colors, sizes, and states
 - [bulma-carousel](https://github.com/Wikiki/bulma-carousel) - Bulma's extension to display a Carousel
 - [bulma-megamenu](https://github.com/hunzaboy/bulma-megamenu/) - Bulma extension to make Mega Menus
-- [bulma-steps](https://wikiki.github.io/components/steps) - Display steps for a process (like sign-up or an order form) with different colors, sizes, and states
+- [bulma-steps](https://wikiki.github.io/components/steps) - Display steps for a process with different colors, sizes, and states
 - [bulma-switch](https://wikiki.github.io/form/switch) - Display the classic checkbox as a switch button with different colors, sizes, and states
 - [bulma-pageloader](https://wikiki.github.io/elements/pageloader) - Display a page-loader to inform users that content is loading, in different colors
 - [bulma-checkradio](https://wikiki.github.io/form/checkradio) - Make classic checkbox and radio sexier with different colors, sizes, and states
