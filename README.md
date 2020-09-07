@@ -183,6 +183,7 @@
 
 ## Expo
 
+✨ - [Bulma Play](https://bulma-css-bulmaplay.appseed.us//)  
 ✨ - [Filegator](https://demo.filegator.io/)  
 ✨ - [Sinuous](https://sinuous.netlify.app/)  
 ✨ - [Agilox](https://www.agilox.net/en)  
