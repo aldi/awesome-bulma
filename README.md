@@ -67,7 +67,7 @@
 
 ### Templates
 
-🖼️ - [awesome-bulma-templates](https://github.com/aldi/awesome-bulma-templates/tree/master/templates) - Free Real World Templates built with Bulma  
+🖼️ - [awesome-bulma-templates](https://github.com/aldi/awesome-bulma-templates/) - Free Real World Templates built with Bulma  
 🖼️ - [bulma-rent-template](https://github.com/aldi/bulma-rent-template) - Free Rent Template built with Bulma  
 🖼️ - [bulma-cv-template](https://github.com/aldi/bulma-cv-template) - Free CV Template built with Bulma  
 🖼️ - [bulma-hotel-template](https://github.com/aldi/bulma-hotel-template) - Free Hotel Template built with Bulma  
