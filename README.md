@@ -176,7 +176,7 @@
 - [bulma-divider](https://wikiki.github.io/layout/divider) - Display a vertical or horizontal divider to segment your design
 - [bulma-badge](https://wikiki.github.io/elements/badge) - Display a badge element in front of Bulma's element in different colors
 - [bulma-tooltip](https://wikiki.github.io/elements/tooltip) - Display a tooltip attached to any kind of element with different positioning
-- [bulma-toast](https://https://github.com/rfoel/bulma-toast/) - Bulma's pure JavaScript extension to display toasts
+- [bulma-toast](https://github.com/rfoel/bulma-toast/) - Bulma's pure JavaScript extension to display toasts
 - [bulma-tagsinput](https://wikiki.github.io/form/tagsinput/) - Modernize an add interaction on input of tags type
 - [bulma-block-list](https://github.com/chrisrhymes/bulma-block-list) - A simple scss package extending Bulma with block style list elements
 - [bulma-spacing](https://github.com/kaangokdemir/bulma-spacing) - Missing spacing classes for Bulma ecosystem
