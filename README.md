@@ -103,7 +103,8 @@
 
 ### Themes
 
-🎨 - [bulmaswatch](https://jenil.github.io/bulmaswatch/) - Themes for Bulma
+🎨 - [bulmaswatch](https://jenil.github.io/bulmaswatch/) - Themes for Bulma  
+🎨 - [Bulma On Demand](https://bulma-on-demand.vercel.app) - Customize Bulma without installing anything  
 
 ## Learning
 
