@@ -182,6 +182,7 @@
 - [bulma-block-list](https://github.com/chrisrhymes/bulma-block-list) - A simple scss package extending Bulma with block style list elements
 - [bulma-spacing](https://github.com/kaangokdemir/bulma-spacing) - Missing spacing classes for Bulma ecosystem
 - [bulma-o-steps](https://octoshrimpy.github.io/bulma-o-steps) - Steps Component For Bulma.io
+- [bulma-tagsfield](https://github.com/crabvk/bulma-tagsfield) - Multi-line tags input control
 
 ## Expo
 
