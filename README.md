@@ -181,6 +181,7 @@
 - [bulma-tagsinput](https://wikiki.github.io/form/tagsinput/) - Modernize an add interaction on input of tags type
 - [bulma-block-list](https://github.com/chrisrhymes/bulma-block-list) - A simple scss package extending Bulma with block style list elements
 - [bulma-spacing](https://github.com/kaangokdemir/bulma-spacing) - Missing spacing classes for Bulma ecosystem
+- [bulma-o-steps](https://octoshrimpy.github.io/bulma-o-steps) - Steps Component For Bulma.io
 
 ## Expo
 
