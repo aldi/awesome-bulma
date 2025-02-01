@@ -183,6 +183,7 @@
 - [bulma-spacing](https://github.com/kaangokdemir/bulma-spacing) - Missing spacing classes for Bulma ecosystem
 - [bulma-o-steps](https://octoshrimpy.github.io/bulma-o-steps) - Steps Component For Bulma.io
 - [bulma-tagsfield](https://github.com/crabvk/bulma-tagsfield) - Multi-line tags input control
+- [bulma-list](https://github.com/bluefantail/bulma-list) - A simple list component extension for Bulma
 
 ## Expo
 
