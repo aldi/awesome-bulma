@@ -29,7 +29,7 @@
 
 🔗 - [Bulma.io](https://bulma.io) - Official Bulma website  
 🔗 - [Bulma Documentation](https://bulma.io/documentation/) - Everything you need to create a website with Bulma  
-🔗 - [Bulma on GitHub](https://github.com/tailwindcss/tailwindcss) - Official Bulma repository on GitHub  
+🔗 - [Bulma on GitHub](https://github.com/jgthms/bulma) - Official Bulma repository on GitHub  
 🔗 - [Bulma on Gitter](https://gitter.im/jgthms/bulma) - Official Bulma Community on Gitter  
 🔗 - [Bulma NPM Package](https://www.npmjs.com/package/bulma) - Official Bulma NPM Package
 
@@ -56,7 +56,7 @@
 ### IDE Extensions
 
 💻 - [Bulma for VS Code](https://marketplace.visualstudio.com/items?itemName=demijollamaxime.bulma) - A set of Bulma Snippets for Visual Studio Code  
-💻 - [Bulma Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=fiazluthfi.bulma-snippets) - Visual Studio Code snippet extension for Tailwind CSS  
+💻 - [Bulma Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=fiazluthfi.bulma-snippets) - Visual Studio Code snippet extension for Bulma CSS  
 💻 - [Bulma Snippets for Sublime Text 3](https://github.com/OthmaneBlial/Bulma-Snippets-Sublime-Text-Plugin) - A set of Bulma Snippets for Sublime Text  
 💻 - [Bulma Autocomplete for Sublime Text 3](https://github.com/leuchte/bulma-autocomplete) - Sublime Text autocomplete plugin for the Bulma CSS Framework  
 💻 - [Bulma Autocomplete 2.0 for Atom](https://github.com/lowlevelm/Bulma-autocomplete-2) - An Atom module to improve your Bulma workflow
