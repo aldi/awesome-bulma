@@ -115,23 +115,28 @@
 
 ### Video Tutorials
 
-🎬 - [Bulma CSS Framework Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg) - by TraversyMedia  
-🎬 - [Bulma CSS Framework - Complete Tutorial](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by FreeCodeCamp  
-🎬 - [Bulma CSS Framework - 1. Button Styles](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by Paul Halliday  
-🎬 - [Bulma CSS Framework - 2. Notifications](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by Paul Halliday  
-🎬 - [Bulma CSS Framework - 3. Progress Bars](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by Paul Halliday  
-🎬 - [Bulma CSS Framework - 4. Tags](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by Paul Halliday  
-🎬 - [Responsive Bulma CSS Navigation Bar](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by abwebtuts  
-🎬 - [Bulma CSS Framework - 1. Buttons & Modifiers](https://www.youtube.com/watch?v=Z6RtMMmiHq0) - by Rocky DeRaze  
-🎬 - [Bulma CSS Framework - 2. Helpers & Helper Classes](https://www.youtube.com/watch?v=VCwOsDJOZ3s) - by Rocky DeRaze  
-🎬 - [Bulma CSS Framework - 3. Responsive Helpers](https://www.youtube.com/watch?v=z47FvpbmJRg) - by Rocky DeRaze  
-🎬 - [Bulma CSS Framework - 4. Grid Columns - Layout](https://www.youtube.com/watch?v=desqDL5d_7I) - by Rocky DeRaze  
-🎬 - [Bulma CSS Framework - 5. Grid Columns - Responsiveness](https://www.youtube.com/watch?v=gbiRO5npbpY) - by Rocky DeRaze  
-🎬 - [Bulma CSS Framework - Admin Dashboard Template Design](https://www.youtube.com/watch?v=RD2m0FkTS_o) - by FrontEndFunn  
-🎬 - [Intro to Bulma - A CSS Framework](https://www.youtube.com/watch?v=I8ezFcJ6AeM) - by Pretty Printed  
-🎬 - [How to create tiles in Bulma](https://www.youtube.com/watch?v=H-2tcg_Qvhs) - by Pretty Printed  
-🎬 - [Bulma Layouts - Sections, Containers, Columns, Levels](https://www.youtube.com/watch?v=ouI1_tZ1yK4) - by Pretty Printed  
-🎬 - [JavaScript Zipcode App Using Fetch & Bulma CSS](https://www.youtube.com/watch?v=K3GfUH7AZKs) - by Traversy Media
+
+#### 2018
+
+* 🎬 - [Bulma CSS Framework - Complete Tutorial](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by freeCodeCamp.org  
+* 🎬 - [Responsive Bulma CSS Navigation Bar](https://www.youtube.com/watch?v=I6nuWeylMYM) - by abwebtuts
+* 🎬 - [Bulma Layouts - Sections, Containers, Columns, Levels](https://www.youtube.com/watch?v=ouI1_tZ1yK4) - by Pretty Printed
+* 🎬 - [Intro to Bulma - A CSS Framework](https://www.youtube.com/watch?v=I8ezFcJ6AeM) - by Pretty Printed  
+* 🎬 - [How to create tiles in Bulma](https://www.youtube.com/watch?v=H-2tcg_Qvhs) - by Pretty Printed
+
+#### 2017
+
+* 🎬 - [Bulma CSS Framework Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg) - by TraversyMedia  
+* 🎬 - [JavaScript Zipcode App Using Fetch & Bulma CSS](https://www.youtube.com/watch?v=K3GfUH7AZKs) - by Traversy Media    
+* 🎬 - [Bulma CSS Framework - 1. Buttons & Modifiers](https://www.youtube.com/watch?v=Z6RtMMmiHq0) - by Rocky DeRaze  
+* 🎬 - [Bulma CSS Framework - 2. Helpers & Helper Classes](https://www.youtube.com/watch?v=VCwOsDJOZ3s) - by Rocky DeRaze  
+* 🎬 - [Bulma CSS Framework - 3. Responsive Helpers](https://www.youtube.com/watch?v=z47FvpbmJRg) - by Rocky DeRaze  
+* 🎬 - [Bulma CSS Framework - 4. Grid Columns - Layout](https://www.youtube.com/watch?v=desqDL5d_7I) - by Rocky DeRaze  
+* 🎬 - [Bulma CSS Framework - 5. Grid Columns - Responsiveness](https://www.youtube.com/watch?v=gbiRO5npbpY) - by Rocky DeRaze  
+* 🎬 - [Bulma CSS Framework - Progress Bars](https://www.youtube.com/watch?v=JBY-qOXcf3s) - by Paul Halliday  
+* 🎬 - [Bulma CSS Framework - Notifications](https://www.youtube.com/watch?v=PLEZCWuJ6s0) - by Paul Halliday  
+* 🎬 - [Bulma CSS Framework - Button Styles](https://www.youtube.com/watch?v=IGrtt9iMn2c) - by Paul Halliday  
+* 🎬 - [Bulma CSS Framework - Tags](https://www.youtube.com/watch?v=j7NdJ5w3g4Q) - by Paul Halliday  
 
 ### Courses
 
@@ -157,24 +162,21 @@
 - [bulma-social](https://aldi.github.io/bulma-social) - 🤳 Social Sign-In Buttons based on Bulma and Font Awesome
 - [bulma-calendar](https://wikiki.github.io/components/calendar) - Display a calendar with different colors and sizes
 - [bulma-timeline](https://wikiki.github.io/components/timeline) - Display a vertical timeline, in different colors, sizes, and states
-- [bulma-carousel](https://github.com/Wikiki/bulma-carousel) - Bulma's extension to display a Carousel
-- [bulma-megamenu](https://github.com/hunzaboy/bulma-megamenu/) - Bulma extension to make Mega Menus
+- [bulma-carousel](https://github.com/Wikiki/bulma-carousel) - Bulma's extension to display a Carousel- [bulma-megamenu](https://github.com/hunzaboy/bulma-megamenu/) - Bulma extension to make Mega Menus
 - [bulma-steps](https://wikiki.github.io/components/steps) - Display steps for a process with different colors, sizes, and states
 - [bulma-switch](https://wikiki.github.io/form/switch) - Display the classic checkbox as a switch button with different colors, sizes, and states
 - [bulma-pageloader](https://wikiki.github.io/elements/pageloader) - Display a page-loader to inform users that content is loading, in different colors
 - [bulma-checkradio](https://wikiki.github.io/form/checkradio) - Make classic checkbox and radio sexier with different colors, sizes, and states
 - [bulma-pricingtable](https://wikiki.github.io/components/pricingtable/) - Display an input as an Icon Picker to ease the user icon selection
 - [bulma-accordion](https://wikiki.github.io/components/accordion) - A simple accordion extension for Bulma
-- [bulma-slider](https://wikiki.github.io/form/slider) - Display a classic slider with different colors, sizes, and states
-- [bulma-ribbon](https://github.com/Wikiki/bulma-ribbon) - Bulma's extension to show a ribbon on boxes
+- [bulma-slider](https://wikiki.github.io/form/slider) - Display a classic slider with different colors, sizes, and states- [bulma-ribbon](https://github.com/Wikiki/bulma-ribbon) - Bulma's extension to show a ribbon on boxes
 - [bulma-quickview](https://wikiki.github.io/components/quickview/) - Display a quick view of data without leaving the current page
 - [bulma-carousel](https://creativebulma.net/product/carousel/demo) - A simple carousel/slider extension for Bulma
 - [bulma-iconpicker](https://wikiki.github.io/form/iconpicker/) - Display an input as an Icon Picker to ease the user icon selection
 - [bulma-o-steps](https://octoshrimpy.github.io/bulma-o-steps/) - An in-depth steps extension for multi-step forms or wizards
 - [bulma-coolcheckboxes](https://github.com/hunzaboy/Cool-Checkboxes-for-Bulma.io) - Cool CSS based checkbox for Bulma
 - [bulma-dashboard](https://github.com/lucperkins/bulma-dashboard) - Write easily dashboard-style interfaces with fixed horizontal panels
-- [bulma-steps (alternative)](https://aramvisser.github.io/bulma-steps/) - Keep track of where you are in multi steps forms and wizards
-- [bulma-divider](https://wikiki.github.io/layout/divider) - Display a vertical or horizontal divider to segment your design
+- [bulma-steps (alternative)](https://aramvisser.github.io/bulma-steps/) - Keep track of where you are in multi steps forms and wizards- [bulma-divider](https://wikiki.github.io/layout/divider) - Display a vertical or horizontal divider to segment your design
 - [bulma-badge](https://wikiki.github.io/elements/badge) - Display a badge element in front of Bulma's element in different colors
 - [bulma-tooltip](https://wikiki.github.io/elements/tooltip) - Display a tooltip attached to any kind of element with different positioning
 - [bulma-toast](https://github.com/rfoel/bulma-toast/) - Bulma's pure JavaScript extension to display toasts
@@ -190,8 +192,7 @@
 ✨ - [Divjoy](https://divjoy.com/)  
 ✨ - [ftw](https://next.ftwcoin.io/)  
 ✨ - [Spike](https://spike.sh/)  
-✨ - [Runlet](https://runlet.app/)  
-✨ - [Bulma Play](https://bulma-css-bulmaplay.appseed.us//)  
+✨ - [Runlet](https://runlet.app/)  ✨ - [Bulma Play](https://bulma-css-bulmaplay.appseed.us//)  
 ✨ - [Filegator](https://demo.filegator.io/)  
 ✨ - [Sinuous](https://sinuous.netlify.app/)  
 ✨ - [Agilox](https://www.agilox.net/en)  
