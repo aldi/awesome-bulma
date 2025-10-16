@@ -63,7 +63,8 @@
 
 ### Open-Source Projects
 
-:octocat: - [FileGator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager
+:octocat: - [FileGator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager  
+:octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) - Laravel based open-source headless CMS with Bulma  
 
 ### Templates
 
