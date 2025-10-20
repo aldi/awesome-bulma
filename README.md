@@ -116,6 +116,10 @@
 ### Video Tutorials
 
 
+#### 2021
+
+* 🎬 - [CSS framework in 20 minutes | Bootstrap | Materialize | Bulma | Tailwind | Bootswatch](https://www.youtube.com/watch?v=hfLJ56iALWw) - by Coding Jitsu
+
 #### 2020
 
 * 🎬 - [Bulma CSS Tutorial Playlist](http://www.youtube.com/playlist?list=PL4cUxeGkcC9iXItWKbaQxcyDT1u6E7a8a) - by Net Ninja
@@ -125,6 +129,7 @@
 * 🎬 - [Bulma css framework - Admin Dashboard Template Design](https://www.youtube.com/watch?v=RD2m0FkTS_o) - by FrontEndFunn
 
 #### 2018
+
 * 🎬 - [Bulma CSS Framework - Complete Tutorial](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by freeCodeCamp.org  
 * 🎬 - [Responsive Bulma CSS Navigation Bar](https://www.youtube.com/watch?v=I6nuWeylMYM) - by abwebtuts
 * 🎬 - [Bulma Layouts - Sections, Containers, Columns, Levels](https://www.youtube.com/watch?v=ouI1_tZ1yK4) - by Pretty Printed
