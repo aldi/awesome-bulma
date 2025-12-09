@@ -34,23 +34,12 @@
 
 ### Starters
 
+***Note:** These starters are built for **Bulma v0.9** and are not yet compatible with v1.*  
 🏁 - [bulma-start](https://github.com/jgthms/bulma-start) - A tiny npm package to get started  
-🏁 - [bulmapress](https://github.com/teamscops/bulmapress) - A WordPress flexbox theme  
-🏁 - [base-camp](https://github.com/suomato/base-camp) - Awesome WordPress starter theme with own CLI with Bulma  
-🏁 - [bulmascores](https://github.com/Nicuz/Bulmascores) - WordPress starter theme based on Underscores and Bulma  
-🏁 - [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) - Gatsby + Netlify CMS Starter with Bulma  
-🏁 - [gatsby-bulma-quickstart](https://github.com/amandeepmittal/gatsby-bulma-quickstart) - A Bulma CSS + GatsbyJS Starter Kit  
-🏁 - [gatsby-starter-bloomer](https://github.com/Cethy/gatsby-starter-bloomer) - A Gatsby starter based on Bulma and Bloomer  
-🏁 - [gatsby-starter-bulma-storybook](https://github.com/gvaldambrini/gatsby-starter-bulma-storybook) - A minimal Gatsby starter which includes Bulma and Storybook  
-🏁 - [gatsby-starter-i18n-bulma](https://github.com/kalwalt/gatsby-starter-i18n-bulma) - A gatsby multilanguage template with bulma and i18n  
-🏁 - [phoenix-starter](https://github.com/awestbro/phoenix-starter) - Elixir | Phoenix | Webpack | Bulma  
-🏁 - [gridsome-bulma](https://github.com/calebanthony/gridsome-bulma) - A Gridsome starter with Bulma  
-🏁 - [next-starter](https://github.com/techno246/next-starter) - Next.js starter project with Bulma, SASS, ESLint  
-🏁 - [starter-angular-loopback-bulma](https://github.com/angular-indonesia/starter-angular-loopback-bulma) - A Starter Template using Angular & Bulma with a Loopback Backend  
-🏁 - [react-starter](https://github.com/chvid/react-starter) - A starter for React/Bulma/Webpack  
+🏁 - [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) - Gatsby + Decap CMS (formerly Netlify CMS) with Bulma  
 🏁 - [next-bulma](https://github.com/louiskhenghao/next-bulma) - NextJs with Bulma CSS Framework  
-🏁 - [hyperbulma](https://github.com/cutemachine/hyperbulma) - A starter project for using Hyperapp with Bulma CSS  
-🏁 - [parcel-starter-kit](https://github.com/emendelski/parcel-starter-kit) - Simple boilerplate: Parcel, Bulma, Babel, Autoprefixer, Posthtml, Eslint and SCSS
+🏁 - [react-starter](https://github.com/chvid/react-starter) - A starter for React/Bulma/Webpack  
+🏁 - [nuxt-bulma-starter](https://github.com/bulma-templates/nuxt-bulma-starter) - Nuxt.js starter with Bulma integration
 
 ### IDE Extensions
 
