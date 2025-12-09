@@ -30,7 +30,6 @@
 🔗 - [Bulma.io](https://bulma.io) - Official Bulma website  
 🔗 - [Bulma Documentation](https://bulma.io/documentation/) - Everything you need to create a website with Bulma  
 🔗 - [Bulma on GitHub](https://github.com/jgthms/bulma) - Official Bulma repository on GitHub  
-🔗 - [Bulma on Gitter](https://gitter.im/jgthms/bulma) - Official Bulma Community on Gitter  
 🔗 - [Bulma NPM Package](https://www.npmjs.com/package/bulma) - Official Bulma NPM Package
 
 ### Starters
