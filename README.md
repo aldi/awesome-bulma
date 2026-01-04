@@ -104,6 +104,12 @@
 ### Video Tutorials
 
 
+#### 2022
+
+- 🎬 - [Build UI using Bulma | Gravity - Part 3 | Chrome extension tutorial](http://www.youtube.com/watch?v=CrxMU1u50Rs) - by LetCode with Koushik
+- 🎬 - [10 Sass and Bulma](http://www.youtube.com/watch?v=HOyiGbAd33c) - by Dev tips by MoHo
+- 🎬 - [How to Install Bulma CSS Using npm on Windows: A 60-Second Step-by-Step Guide](http://www.youtube.com/watch?v=y5_uMpC0exM) - by HackerandCoder
+
 #### 2021
 
 - 🎬 - [CSS framework in 20 minutes | Bootstrap | Materialize | Bulma | Tailwind | Bootswatch](https://www.youtube.com/watch?v=hfLJ56iALWw) - by Coding Jitsu
