@@ -106,37 +106,37 @@
 
 #### 2021
 
-* 🎬 - [CSS framework in 20 minutes | Bootstrap | Materialize | Bulma | Tailwind | Bootswatch](https://www.youtube.com/watch?v=hfLJ56iALWw) - by Coding Jitsu
+- 🎬 - [CSS framework in 20 minutes | Bootstrap | Materialize | Bulma | Tailwind | Bootswatch](https://www.youtube.com/watch?v=hfLJ56iALWw) - by Coding Jitsu
 
 #### 2020
 
-* 🎬 - [Bulma CSS Tutorial Playlist](http://www.youtube.com/playlist?list=PL4cUxeGkcC9iXItWKbaQxcyDT1u6E7a8a) - by Net Ninja
+- 🎬 - [Bulma CSS Tutorial Playlist](http://www.youtube.com/playlist?list=PL4cUxeGkcC9iXItWKbaQxcyDT1u6E7a8a) - by Net Ninja
 
 #### 2019
 
-* 🎬 - [Bulma css framework - Admin Dashboard Template Design](https://www.youtube.com/watch?v=RD2m0FkTS_o) - by FrontEndFunn
+- 🎬 - [Bulma css framework - Admin Dashboard Template Design](https://www.youtube.com/watch?v=RD2m0FkTS_o) - by FrontEndFunn
 
 #### 2018
 
-* 🎬 - [Bulma CSS Framework - Complete Tutorial](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by freeCodeCamp.org  
-* 🎬 - [Responsive Bulma CSS Navigation Bar](https://www.youtube.com/watch?v=I6nuWeylMYM) - by abwebtuts
-* 🎬 - [Bulma Layouts - Sections, Containers, Columns, Levels](https://www.youtube.com/watch?v=ouI1_tZ1yK4) - by Pretty Printed
-* 🎬 - [Intro to Bulma - A CSS Framework](https://www.youtube.com/watch?v=I8ezFcJ6AeM) - by Pretty Printed  
-* 🎬 - [How to create tiles in Bulma](https://www.youtube.com/watch?v=H-2tcg_Qvhs) - by Pretty Printed
+- 🎬 - [Bulma CSS Framework - Complete Tutorial](https://www.youtube.com/watch?v=LBzZLzu2GKo) - by freeCodeCamp.org  
+- 🎬 - [Responsive Bulma CSS Navigation Bar](https://www.youtube.com/watch?v=I6nuWeylMYM) - by abwebtuts
+- 🎬 - [Bulma Layouts - Sections, Containers, Columns, Levels](https://www.youtube.com/watch?v=ouI1_tZ1yK4) - by Pretty Printed
+- 🎬 - [Intro to Bulma - A CSS Framework](https://www.youtube.com/watch?v=I8ezFcJ6AeM) - by Pretty Printed  
+- 🎬 - [How to create tiles in Bulma](https://www.youtube.com/watch?v=H-2tcg_Qvhs) - by Pretty Printed
 
 #### 2017
 
-* 🎬 - [Bulma CSS Framework Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg) - by TraversyMedia  
-* 🎬 - [JavaScript Zipcode App Using Fetch & Bulma CSS](https://www.youtube.com/watch?v=K3GfUH7AZKs) - by Traversy Media  
-* 🎬 - [Bulma CSS Framework - 1. Buttons & Modifiers](https://www.youtube.com/watch?v=Z6RtMMmiHq0) - by Rocky DeRaze  
-* 🎬 - [Bulma CSS Framework - 2. Helpers & Helper Classes](https://www.youtube.com/watch?v=VCwOsDJOZ3s) - by Rocky DeRaze  
-* 🎬 - [Bulma CSS Framework - 3. Responsive Helpers](https://www.youtube.com/watch?v=z47FvpbmJRg) - by Rocky DeRaze  
-* 🎬 - [Bulma CSS Framework - 4. Grid Columns - Layout](https://www.youtube.com/watch?v=desqDL5d_7I) - by Rocky DeRaze  
-* 🎬 - [Bulma CSS Framework - 5. Grid Columns - Responsiveness](https://www.youtube.com/watch?v=gbiRO5npbpY) - by Rocky DeRaze  
-* 🎬 - [Bulma CSS Framework - Progress Bars](https://www.youtube.com/watch?v=JBY-qOXcf3s) - by Paul Halliday  
-* 🎬 - [Bulma CSS Framework - Notifications](https://www.youtube.com/watch?v=PLEZCWuJ6s0) - by Paul Halliday  
-* 🎬 - [Bulma CSS Framework - Button Styles](https://www.youtube.com/watch?v=IGrtt9iMn2c) - by Paul Halliday  
-* 🎬 - [Bulma CSS Framework - Tags](https://www.youtube.com/watch?v=j7NdJ5w3g4Q) - by Paul Halliday  
+- 🎬 - [Bulma CSS Framework Crash Course](https://www.youtube.com/watch?v=IiPQYQT2-wg) - by TraversyMedia  
+- 🎬 - [JavaScript Zipcode App Using Fetch & Bulma CSS](https://www.youtube.com/watch?v=K3GfUH7AZKs) - by Traversy Media  
+- 🎬 - [Bulma CSS Framework - 1. Buttons & Modifiers](https://www.youtube.com/watch?v=Z6RtMMmiHq0) - by Rocky DeRaze  
+- 🎬 - [Bulma CSS Framework - 2. Helpers & Helper Classes](https://www.youtube.com/watch?v=VCwOsDJOZ3s) - by Rocky DeRaze  
+- 🎬 - [Bulma CSS Framework - 3. Responsive Helpers](https://www.youtube.com/watch?v=z47FvpbmJRg) - by Rocky DeRaze  
+- 🎬 - [Bulma CSS Framework - 4. Grid Columns - Layout](https://www.youtube.com/watch?v=desqDL5d_7I) - by Rocky DeRaze  
+- 🎬 - [Bulma CSS Framework - 5. Grid Columns - Responsiveness](https://www.youtube.com/watch?v=gbiRO5npbpY) - by Rocky DeRaze  
+- 🎬 - [Bulma CSS Framework - Progress Bars](https://www.youtube.com/watch?v=JBY-qOXcf3s) - by Paul Halliday  
+- 🎬 - [Bulma CSS Framework - Notifications](https://www.youtube.com/watch?v=PLEZCWuJ6s0) - by Paul Halliday  
+- 🎬 - [Bulma CSS Framework - Button Styles](https://www.youtube.com/watch?v=IGrtt9iMn2c) - by Paul Halliday  
+- 🎬 - [Bulma CSS Framework - Tags](https://www.youtube.com/watch?v=j7NdJ5w3g4Q) - by Paul Halliday  
 
 ### Courses
 
