@@ -153,14 +153,20 @@
 ## UI Libraries & Components
 
 - [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma
-- [bulma-rails](https://github.com/joshuajansen/bulma-rails/) - Integrates Bulma with the rails asset pipeline
+- [oruga](https://github.com/oruga-ui/oruga) - UI components library without CSS framework dependency
+- [blazorise](https://github.com/Megabit/Blazorise) - Components for Blazor with support for Bulma
 - [react-bulma-components](https://github.com/couds/react-bulma-components/) - React components for Bulma
+- [bulma-rails](https://github.com/joshuajansen/bulma-rails/) - Integrates Bulma with the rails asset pipeline
 - [bloomer](https://github.com/AlgusDark/bloomer/) - A set of React components for Bulma
-- [react-bulma](https://github.com/kulakowka/react-bulma/) - React.js components for Bulma
 - [svelma](https://github.com/c0bra/svelma/) - Bulma components for Svelte
+- [react-bulma](https://github.com/kulakowka/react-bulma/) - React.js components for Bulma
+- [bulmil](https://github.com/gomah/bulmil) - Web Components library based on Bulma and Stencil
+- [vue-bulma-components](https://github.com/vouill/vue-bulma-components) - Bulma components for Vue.js 2
 - [svelte-bulma-components](https://github.com/elcobvg/svelte-bulma-components/) - Collection of Bulma UI components for Svelte
-- [bulma.io-axure](https://github.com/Code-Mine-Development/Bulma.io-axure) - AxureRP Library with Bulma components
+- [ember-bulma](https://github.com/open-tux/ember-bulma) - Ember.js components for Bulma
+- [bulma-styled-components](https://github.com/mpaupulaire4/bulma-styled-components) - Bulma with styled-components
 - [ng-wizi-bulma](https://github.com/WiziShop/ng-wizi-bulma/) - Bulma components for Angular
+- [bulma.io-axure](https://github.com/Code-Mine-Development/Bulma.io-axure) - AxureRP Library with Bulma components
 - [ralma](https://github.com/aldi/ralma/) - Ractive.js Components for Bulma
 
 ## Extensions
