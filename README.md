@@ -27,10 +27,10 @@
 
 ### Useful Links
 
-🔗 - [Bulma.io](https://bulma.io) - Official Bulma website  
-🔗 - [Bulma Documentation](https://bulma.io/documentation/) - Everything you need to create a website with Bulma  
-🔗 - [Bulma on GitHub](https://github.com/jgthms/bulma) - Official Bulma repository on GitHub  
-🔗 - [Bulma NPM Package](https://www.npmjs.com/package/bulma) - Official Bulma NPM Package
+🔗 - [Bulma](https://bulma.io) - Official website  
+🔗 - [Documentation](https://bulma.io/documentation/) - Guides and reference  
+🔗 - [GitHub](https://github.com/jgthms/bulma) - Source code, issues, and releases  
+🔗 - [npm](https://www.npmjs.com/package/bulma) - Package versions and install instructions
 
 ### Starters
 
@@ -69,8 +69,7 @@
 🖼️ - [bulma-templates](https://github.com/BulmaTemplates/bulma-templates) - Free Flexbox Templates built with Bulma  
 🖼️ - [bulma-templates-admin-light](https://bulmatemplates.github.io/bulma-templates) - Free Admin Light Template built with the Bulma  
 🖼️ - [bulma-templates-band](https://bulmatemplates.github.io/bulma-templates/) - Free Band Template built with Bulma  
-🖼️ - [bulma-templates-blog](https://bulmatemplates.github.io/bulma-templates/) - Free Blog Template built with Bulma  
-🖼️ - [bulma-templates-cards](https://bulmatemplates.github.io/bulma-templates/) - Free Cards Template built with Bulma  
+🖼️ - [bulma-templates-blog](https://bulmatemplates.github.io/bulma-templates/) - Free Blog Template built with Bulma  🖼️ - [bulma-templates-cards](https://bulmatemplates.github.io/bulma-templates/) - Free Cards Template built with Bulma  
 🖼️ - [bulma-templates-cheatsheet](https://bulmatemplates.github.io/bulma-templates/) - Free Cheatsheet Template built with Bulma  
 🖼️ - [bulma-templates-cover](https://bulmatemplates.github.io/bulma-templates/) - Free Cover Template built with Bulma  
 🖼️ - [bulma-templates-forum](https://bulmatemplates.github.io/bulma-templates/) - Free Forum Template built with Bulma  
