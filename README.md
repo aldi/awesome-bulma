@@ -39,7 +39,6 @@
 🏁 - [gatsby-starter-netlify-cms](https://github.com/netlify-templates/gatsby-starter-netlify-cms) - Gatsby + Decap CMS (formerly Netlify CMS) with Bulma  
 🏁 - [next-bulma](https://github.com/louiskhenghao/next-bulma) - NextJs with Bulma CSS Framework  
 🏁 - [react-starter](https://github.com/chvid/react-starter) - A starter for React/Bulma/Webpack  
-🏁 - [nuxt-bulma-starter](https://github.com/bulma-templates/nuxt-bulma-starter) - Nuxt.js starter with Bulma integration
 
 ### IDE Extensions
 
