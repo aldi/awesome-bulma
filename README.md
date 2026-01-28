@@ -61,7 +61,7 @@
 🖼️ - [bulma-cv-template](https://github.com/aldi/bulma-cv-template) - Free CV Template built with Bulma  
 🖼️ - [bulma-hotel-template](https://github.com/aldi/bulma-hotel-template) - Free Hotel Template built with Bulma  🖼️ - [bulma-coming-soon-template](https://github.com/aldi/bulma-coming-soon-template) - Free Coming Soon Template built with Bulma  
 🖼️ - [bulma-event-participation-template](https://github.com/aldi//bulma-event-participation-template) - Free Event Participation Template built with Bulma  
-🖼️ - [bulma-landing-page-template](https://github.com/hellobetkowski/bulma-product-landing-page-template) - Free App/Landing Page Template built with Bulma  
+
 🖼️ - [bulma-login-template](https://github.com/aldi/bulma-login-template) - Free Login Page Template built with Bulma  
 🖼️ - [bulma-admin-dashboard-template](https://github.com/mazipan/bulma-admin-dashboard-template) - Free Admin Dashboard Template built with Bulma  
 🖼️ - [bulma-resume-template](https://github.com/mazipan/bulma-resume-template) - Free Resume Page Template built with Bulma  
