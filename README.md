@@ -170,30 +170,29 @@
 ## Extensions
 
 - [bulma-social](https://aldi.github.io/bulma-social) - 🤳 Social Sign-In Buttons based on Bulma and Font Awesome
-- [bulma-calendar](https://wikiki.github.io/components/calendar) - Display a calendar with different colors and sizes
-- [bulma-timeline](https://wikiki.github.io/components/timeline) - Display a vertical timeline, in different colors, sizes, and states
-- [bulma-carousel](https://github.com/Wikiki/bulma-carousel) - Bulma's extension to display a Carousel
+- [bulma-calendar](https://creativebulma.net/product/calendar) - Display a calendar with different colors and sizes
+- [bulma-timeline](https://creativebulma.net/product/timeline) - Display a vertical timeline, in different colors, sizes, and states
 - [bulma-megamenu](https://github.com/hunzaboy/bulma-megamenu/) - Bulma extension to make Mega Menus
-- [bulma-steps](https://wikiki.github.io/components/steps) - Display steps for a process with different colors, sizes, and states
-- [bulma-switch](https://wikiki.github.io/form/switch) - Display the classic checkbox as a switch button with different colors, sizes, and states
-- [bulma-pageloader](https://wikiki.github.io/elements/pageloader) - Display a page-loader to inform users that content is loading, in different colors
-- [bulma-checkradio](https://wikiki.github.io/form/checkradio) - Make classic checkbox and radio sexier with different colors, sizes, and states
-- [bulma-pricingtable](https://wikiki.github.io/components/pricingtable/) - Display an input as an Icon Picker to ease the user icon selection
-- [bulma-accordion](https://wikiki.github.io/components/accordion) - A simple accordion extension for Bulma
-- [bulma-slider](https://wikiki.github.io/form/slider) - Display a classic slider with different colors, sizes, and states
-- [bulma-ribbon](https://github.com/Wikiki/bulma-ribbon) - Bulma's extension to show a ribbon on boxes
-- [bulma-quickview](https://wikiki.github.io/components/quickview/) - Display a quick view of data without leaving the current page
+- [bulma-steps](https://creativebulma.net/product/steps) - Display steps for a process with different colors, sizes, and states
+- [bulma-switch](https://creativebulma.net/product/switch) - Display the classic checkbox as a switch button with different colors, sizes, and states
+- [bulma-pageloader](https://creativebulma.net/product/pageloader) - Display a page-loader to inform users that content is loading, in different colors
+- [bulma-checkradio](https://creativebulma.net/product/checkradio) - Make classic checkbox and radio sexier with different colors, sizes, and states
+- [bulma-pricingtable](https://creativebulma.net/product/pricingtable) - Display pricing tables with different colors and styles
+- [bulma-accordion](https://creativebulma.net/product/accordion) - A simple accordion extension for Bulma
+- [bulma-slider](https://creativebulma.net/product/slider) - Display a classic slider with different colors, sizes, and states
+- [bulma-ribbon](https://creativebulma.net/product/ribbon) - Bulma's extension to show a ribbon on boxes
+- [bulma-quickview](https://creativebulma.net/product/quickview) - Display a quick view of data without leaving the current page
 - [bulma-carousel](https://creativebulma.net/product/carousel/demo) - A simple carousel/slider extension for Bulma
-- [bulma-iconpicker](https://wikiki.github.io/form/iconpicker/) - Display an input as an Icon Picker to ease the user icon selection
+- [bulma-iconpicker](https://creativebulma.net/product/iconpicker) - Display an input as an Icon Picker to ease the user icon selection
 - [bulma-o-steps](https://octoshrimpy.github.io/bulma-o-steps/) - An in-depth steps extension for multi-step forms or wizards
 - [bulma-coolcheckboxes](https://github.com/hunzaboy/Cool-Checkboxes-for-Bulma.io) - Cool CSS based checkbox for Bulma
 - [bulma-dashboard](https://github.com/lucperkins/bulma-dashboard) - Write easily dashboard-style interfaces with fixed horizontal panels
 - [bulma-steps (alternative)](https://aramvisser.github.io/bulma-steps/) - Keep track of where you are in multi steps forms and wizards
-- [bulma-divider](https://wikiki.github.io/layout/divider) - Display a vertical or horizontal divider to segment your design
-- [bulma-badge](https://wikiki.github.io/elements/badge) - Display a badge element in front of Bulma's element in different colors
-- [bulma-tooltip](https://wikiki.github.io/elements/tooltip) - Display a tooltip attached to any kind of element with different positioning
+- [bulma-divider](https://creativebulma.net/product/divider) - Display a vertical or horizontal divider to segment your design
+- [bulma-badge](https://creativebulma.net/product/badge) - Display a badge element in front of Bulma's element in different colors
+- [bulma-tooltip](https://creativebulma.net/product/tooltip) - Display a tooltip attached to any kind of element with different positioning
 - [bulma-toast](https://github.com/rfoel/bulma-toast/) - Bulma's pure JavaScript extension to display toasts
-- [bulma-tagsinput](https://wikiki.github.io/form/tagsinput/) - Modernize an add interaction on input of tags type
+- [bulma-tagsinput](https://creativebulma.net/product/tagsinput) - Modernize an add interaction on input of tags type
 - [bulma-block-list](https://github.com/chrisrhymes/bulma-block-list) - A simple scss package extending Bulma with block style list elements
 - [bulma-spacing](https://github.com/kaangokdemir/bulma-spacing) - Missing spacing classes for Bulma ecosystem
 - [bulma-o-steps](https://octoshrimpy.github.io/bulma-o-steps) - Steps Component For Bulma.io
