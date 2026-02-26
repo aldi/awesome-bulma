@@ -103,6 +103,7 @@
 
 
 #### 2022
+
 - 🎬 - [Build UI using Bulma | Gravity - Part 3 | Chrome extension tutorial](http://www.youtube.com/watch?v=CrxMU1u50Rs) - by LetCode with Koushik
 - 🎬 - [10 Sass and Bulma](http://www.youtube.com/watch?v=HOyiGbAd33c) - by Dev tips by MoHo
 - 🎬 - [How to Install Bulma CSS Using npm on Windows: A 60-Second Step-by-Step Guide](http://www.youtube.com/watch?v=y5_uMpC0exM) - by HackerandCoder
@@ -110,7 +111,6 @@
 #### 2021
 
 - 🎬 - [CSS framework in 20 minutes | Bootstrap | Materialize | Bulma | Tailwind | Bootswatch](https://www.youtube.com/watch?v=hfLJ56iALWw) - by Coding Jitsu
-
 #### 2020
 
 - 🎬 - [Bulma CSS Tutorial Playlist](http://www.youtube.com/playlist?list=PL4cUxeGkcC9iXItWKbaQxcyDT1u6E7a8a) - by Net Ninja
@@ -151,6 +151,7 @@
 
 - [buefy](https://buefy.org/) - Lightweight UI components for Vue.js based on Bulma
 - [oruga](https://github.com/oruga-ui/oruga) - UI components library without CSS framework dependency
+- [oruga-ui/theme-bulma](https://github.com/oruga-ui/theme-bulma) - Bulma theme for Oruga components
 - [blazorise](https://github.com/Megabit/Blazorise) - Components for Blazor with support for Bulma
 - [react-bulma-components](https://github.com/couds/react-bulma-components/) - React components for Bulma
 - [bulma-rails](https://github.com/joshuajansen/bulma-rails/) - Integrates Bulma with the rails asset pipeline
