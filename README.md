@@ -44,14 +44,14 @@
 
 💻 - [Bulma for VS Code](https://marketplace.visualstudio.com/items?itemName=demijollamaxime.bulma) - A set of Bulma Snippets for Visual Studio Code  
 💻 - [Bulma Snippets for VS Code](https://marketplace.visualstudio.com/items?itemName=fiazluthfi.bulma-snippets) - Visual Studio Code snippet extension for Bulma CSS  
+💻 - [Bulma CSS Class Completion](https://marketplace.visualstudio.com/items?itemName=reliutg.bulma-css-class-completion) - Visual Studio Code class-name completion for Bulma CSS  
 💻 - [Bulma Snippets for Sublime Text 3](https://github.com/OthmaneBlial/Bulma-Snippets-Sublime-Text-Plugin) - A set of Bulma Snippets for Sublime Text  
 💻 - [Bulma Autocomplete for Sublime Text 3](https://github.com/leuchte/bulma-autocomplete) - Sublime Text autocomplete plugin for the Bulma CSS Framework  
 💻 - [Bulma Autocomplete 2.0 for Atom](https://github.com/lowlevelm/Bulma-autocomplete-2) - An Atom module to improve your Bulma workflow
 
 ### Open-Source Projects
 
-:octocat: - [FileGator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager  
-:octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) - Laravel based open-source headless CMS with Bulma  
+:octocat: - [FileGator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager  :octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) - Laravel based open-source headless CMS with Bulma  
 :octocat: - [Laravel Enso](https://github.com/laravel-enso/enso) - Laravel Vue SPA, Bulma themed admin panel  
 :octocat: - [Python Discord Site](https://github.com/python-discord/site) - Django and Bulma web application powering pythondiscord.com  
 
