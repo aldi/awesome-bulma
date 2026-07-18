@@ -53,7 +53,8 @@
 
 ### Open-Source Projects
 
-:octocat: - [FileGator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager  :octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) - Laravel based open-source headless CMS with Bulma  
+:octocat: - [FileGator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager  
+:octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) - Laravel based open-source headless CMS with Bulma  
 :octocat: - [Laravel Enso](https://github.com/laravel-enso/enso) - Laravel Vue SPA, Bulma themed admin panel  
 :octocat: - [Python Discord Site](https://github.com/python-discord/site) - Django and Bulma web application powering pythondiscord.com  
 
@@ -62,7 +63,8 @@
 🖼️ - [awesome-bulma-templates](https://github.com/aldi/awesome-bulma-templates/) - Free Real World Templates built with Bulma  
 🖼️ - [bulma-rent-template](https://github.com/aldi/bulma-rent-template) - Free Rent Template built with Bulma  
 🖼️ - [bulma-cv-template](https://github.com/aldi/bulma-cv-template) - Free CV Template built with Bulma  
-🖼️ - [bulma-hotel-template](https://github.com/aldi/bulma-hotel-template) - Free Hotel Template built with Bulma  🖼️ - [bulma-coming-soon-template](https://github.com/aldi/bulma-coming-soon-template) - Free Coming Soon Template built with Bulma  
+🖼️ - [bulma-hotel-template](https://github.com/aldi/bulma-hotel-template) - Free Hotel Template built with Bulma  
+🖼️ - [bulma-coming-soon-template](https://github.com/aldi/bulma-coming-soon-template) - Free Coming Soon Template built with Bulma  
 🖼️ - [bulma-event-participation-template](https://github.com/aldi//bulma-event-participation-template) - Free Event Participation Template built with Bulma  
 🖼️ - [bulma-login-template](https://github.com/aldi/bulma-login-template) - Free Login Page Template built with Bulma  
 🖼️ - [bulma-admin-dashboard-template](https://github.com/mazipan/bulma-admin-dashboard-template) - Free Admin Dashboard Template built with Bulma  
@@ -113,6 +115,7 @@
 #### 2021
 
 - 🎬 - [CSS framework in 20 minutes | Bootstrap | Materialize | Bulma | Tailwind | Bootswatch](https://www.youtube.com/watch?v=hfLJ56iALWw) - by Coding Jitsu
+
 #### 2020
 
 - 🎬 - [Bulma CSS Tutorial Playlist](http://www.youtube.com/playlist?list=PL4cUxeGkcC9iXItWKbaQxcyDT1u6E7a8a) - by Net Ninja
