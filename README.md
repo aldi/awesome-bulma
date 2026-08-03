@@ -30,7 +30,12 @@
 🔗 - [Bulma](https://bulma.io) - Official website  
 🔗 - [Documentation](https://bulma.io/documentation/) - Guides and reference  
 🔗 - [GitHub](https://github.com/jgthms/bulma) - Source code, issues, and releases  
-🔗 - [npm](https://www.npmjs.com/package/bulma) - Package versions and install instructions
+🔗 - [Releases](https://github.com/jgthms/bulma/releases) - Changelog and version history  
+🔗 - [Migrating to Bulma v1](https://bulma.io/documentation/start/migrating-to-v1/) - Official upgrade guide from v0.9 to v1  
+🔗 - [npm](https://www.npmjs.com/package/bulma) - Package versions and install instructions  
+🔗 - [cdnjs](https://cdnjs.com/libraries/bulma) - CDN-hosted builds of every Bulma version  
+🔗 - [Official Extensions](https://bulma.io/extensions/) - Curated extension directory on bulma.io  
+🔗 - [Official Expo](https://bulma.io/expo/) - Showcase of websites built with Bulma
 
 ### Starters
 
