@@ -110,6 +110,13 @@
 
 ### Video Tutorials
 
+#### 2023
+
+- 🎬 - [Bulma CSS Tutorial for Beginners | Real Estate Landing Page (Mini Project)](https://www.youtube.com/watch?v=S1vfjNXnelc) - by codewithjc
+- 🎬 - [Bulma CSS with Ruby on Rails 7](https://www.youtube.com/watch?v=vn1-CQkSM6A) - by Deanin
+- 🎬 - [Install Bulma CSS library and create a navbar in the NotesList App | Vue Composition API](https://www.youtube.com/watch?v=wSxa8PL9o68) - by Leela Web Dev
+- 🎬 - [Build A REAL TWITTER CLONE | Fullstack Blog Complete Tutorial | Bulma CSS | React JS 18 | Next.JS](https://www.youtube.com/watch?v=5gyUfeIv38w) - by everythingsoftware
+- 🎬 - [How To Install Bulma In Webpack | Bulma Framework Guide For Beginners](https://www.youtube.com/watch?v=_bzT38SaB6A) - by BookwormHead
 
 #### 2022
 
