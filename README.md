@@ -110,6 +110,12 @@
 
 ### Video Tutorials
 
+#### 2024
+
+- 🎬 - [Burke Learns Blazor: Bulma 1.0 Release Party!](https://www.youtube.com/watch?v=gw6EE_tgMa0) - by dotnet
+- 🎬 - [Top 3 CSS Frameworks: Bootstrap, Tailwind, and Bulma](https://www.youtube.com/watch?v=ev4WMXOEnmk) - by Hackr
+- 🎬 - [How To Install Bulma into Laravel Project](https://www.youtube.com/watch?v=ZQ9I2lsajZg) - by Laragram
+
 #### 2023
 
 - 🎬 - [Bulma CSS Tutorial for Beginners | Real Estate Landing Page (Mini Project)](https://www.youtube.com/watch?v=S1vfjNXnelc) - by codewithjc
