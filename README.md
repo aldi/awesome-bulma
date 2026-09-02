@@ -110,6 +110,11 @@
 
 ### Video Tutorials
 
+#### 2025
+
+- 🎬 - [Bulma CSS Tutorial 2025: Build a Responsive Landing Page in 20 Minutes](https://www.youtube.com/watch?v=dnWn0U7gJYo) - by proCode
+- 🎬 - [Bulma For Beginners](https://www.youtube.com/watch?v=bQgWDoC6AOY) - by Max Walizer
+
 #### 2024
 
 - 🎬 - [Burke Learns Blazor: Bulma 1.0 Release Party!](https://www.youtube.com/watch?v=gw6EE_tgMa0) - by dotnet
