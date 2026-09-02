@@ -193,7 +193,7 @@
 - [ember-bulma](https://github.com/open-tux/ember-bulma) - Ember.js components for Bulma
 - [bulma-styled-components](https://github.com/mpaupulaire4/bulma-styled-components) - Bulma with styled-components
 - [ng-wizi-bulma](https://github.com/WiziShop/ng-wizi-bulma/) - Bulma components for Angular
-- [bulma.io-axure](https://github.com/Code-Mine-Development/Bulma.io-axure) - AxureRP Library with Bulma components
+- [bulma.io-axure](https://github.com/AGmakonts/Bulma.io-axure) - AxureRP Library with Bulma components
 - [ralma](https://github.com/aldi/ralma/) - Ractive.js Components for Bulma
 
 ## Extensions
