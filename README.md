@@ -95,7 +95,7 @@
 🖼️ - [bulma-templates-tabs](https://bulmatemplates.github.io/bulma-templates/) - Free Tabs Τemplate built with Bulma  
 🖼️ - [bulma-admin](https://github.com/nafplann/bulma-admin) - Free Admin Panel Template based on Bulma  
 🖼️ - [jekyll-bulma](https://github.com/erayaydin/jekyll-bulma) - Bulma Jekyll Template based on Bulma  
-🖼️ - [bulma-dashboard](https://github.com/SamZCoder/Bulma-Dashboard/) - Free Dashboard Template built with Bulma
+🖼️ - [bulma-dashboard](https://github.com/codersamer/Bulma-Dashboard) - Free Dashboard Template built with Bulma  
 
 ### Themes
 
