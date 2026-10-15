@@ -14,13 +14,13 @@
   - [Templates](#templates)
   - [Themes](#themes)
   - [IDE Extensions](#ide-extensions)
+  - [Tools](#tools)
   - [Open-Source Projects](#open-source-projects)
   - [Learning](#learning)
     - [Books](#books)
     - [Video Tutorials](#video-tutorials)
     - [Courses](#courses)
 - [UI Libraries & Components](#ui-libraries--components)
-- [AI Coding Agents](#ai-coding-agents)
 - [Extensions](#extensions)
 - [Expo](#expo)
 
@@ -56,6 +56,11 @@
 💻 - [Bulma Snippets for Sublime Text 3](https://github.com/OthmaneBlial/Bulma-Snippets-Sublime-Text-Plugin) - A set of Bulma Snippets for Sublime Text  
 💻 - [Bulma Autocomplete for Sublime Text 3](https://github.com/leuchte/bulma-autocomplete) - Sublime Text autocomplete plugin for the Bulma CSS Framework  
 💻 - [Bulma Autocomplete 2.0 for Atom](https://github.com/lowlevelm/Bulma-autocomplete-2) - An Atom module to improve your Bulma workflow
+
+### Tools
+
+🛠️ - [bestax-mcp](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) - MCP server that gives coding agents the Bestax props, examples and Bulma CSS variables, offline  
+🛠️ - [Bestax Skills](https://github.com/allxsmith/bestax/tree/main/skills) - Agent Skills for building forms, layouts, theming and icons with Bestax on Bulma v1
 
 ### Open-Source Projects
 
@@ -196,11 +201,6 @@
 - [ng-wizi-bulma](https://github.com/WiziShop/ng-wizi-bulma/) - Bulma components for Angular
 - [bulma.io-axure](https://github.com/AGmakonts/Bulma.io-axure) - AxureRP Library with Bulma components
 - [ralma](https://github.com/aldi/ralma/) - Ractive.js Components for Bulma
-
-## AI Coding Agents
-
-- [bestax-mcp](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) - MCP server that gives coding agents the Bestax props, examples and Bulma CSS variables, offline  
-- [Bestax Skills](https://github.com/allxsmith/bestax/tree/main/skills) - Agent Skills for building forms, layouts, theming and icons with Bestax on Bulma v1  
 
 ## Extensions
 
