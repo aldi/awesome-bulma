@@ -14,7 +14,6 @@
   - [Templates](#templates)
   - [Themes](#themes)
   - [IDE Extensions](#ide-extensions)
-  - [Tools](#tools)
   - [Open-Source Projects](#open-source-projects)
   - [Learning](#learning)
     - [Books](#books)
@@ -57,17 +56,14 @@
 💻 - [Bulma Autocomplete for Sublime Text 3](https://github.com/leuchte/bulma-autocomplete) - Sublime Text autocomplete plugin for the Bulma CSS Framework  
 💻 - [Bulma Autocomplete 2.0 for Atom](https://github.com/lowlevelm/Bulma-autocomplete-2) - An Atom module to improve your Bulma workflow
 
-### Tools
-
-🛠️ - [bestax-mcp](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) - MCP server that gives coding agents the Bestax props, examples and Bulma CSS variables, offline  
-🛠️ - [Bestax Skills](https://github.com/allxsmith/bestax/tree/main/skills) - Agent Skills for building forms, layouts, theming and icons with Bestax on Bulma v1
-
 ### Open-Source Projects
 
 :octocat: - [FileGator](https://github.com/filegator/filegator) - Powerful Multi-User File Manager  
 :octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) - Laravel based open-source headless CMS with Bulma  
 :octocat: - [Laravel Enso](https://github.com/laravel-enso/enso) - Laravel Vue SPA, Bulma themed admin panel  
 :octocat: - [Python Discord Site](https://github.com/python-discord/site) - Django and Bulma web application powering pythondiscord.com  
+:octocat: - [bestax-mcp](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) - MCP server that gives coding agents the Bestax props, examples and Bulma CSS variables, offline  
+:octocat: - [Bestax Skills](https://github.com/allxsmith/bestax/tree/main/skills) - Agent Skills for building forms, layouts, theming and icons with Bestax on Bulma v1  
 
 ### Templates
 
