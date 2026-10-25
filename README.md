@@ -62,6 +62,8 @@
 :octocat: - [VaahCMS](https://github.com/webreinvent/vaahcms) - Laravel based open-source headless CMS with Bulma  
 :octocat: - [Laravel Enso](https://github.com/laravel-enso/enso) - Laravel Vue SPA, Bulma themed admin panel  
 :octocat: - [Python Discord Site](https://github.com/python-discord/site) - Django and Bulma web application powering pythondiscord.com  
+:octocat: - [bestax-mcp](https://github.com/allxsmith/bestax/tree/main/bestax-mcp) - MCP server that gives coding agents the Bestax props, examples and Bulma CSS variables, offline  
+:octocat: - [Bestax Skills](https://github.com/allxsmith/bestax/tree/main/skills) - Agent Skills for building forms, layouts, theming and icons with Bestax on Bulma v1  
 
 ### Templates
 
